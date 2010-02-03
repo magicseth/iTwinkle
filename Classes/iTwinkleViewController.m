@@ -120,7 +120,7 @@ extern  CGImageRef UIGetScreenImage();
 
 
 - (void) pickImage {
-	[imagePickerController dismissModalViewControllerAnimated:NO];
+	if (imagePickerController)	[imagePickerController dismissModalViewControllerAnimated:NO];
 	[bgImage setAlpha:0];
 	[overview setFrame:CGRectMake(0, 0, 320, 480)];
 	[self.view addSubview:overview];
@@ -128,10 +128,11 @@ extern  CGImageRef UIGetScreenImage();
 	imagePickerController.delegate = self;
 	imagePickerController.sourceType = UIImagePickerControllerSourceTypePhotoLibrary;
 	[self presentModalViewController:imagePickerController animated:YES];
+
 	
 }
 - (void) showCamera {
-	[imagePickerController dismissModalViewControllerAnimated:NO];
+	if (imagePickerController)	[imagePickerController dismissModalViewControllerAnimated:NO];
 	[bgImage setAlpha:0];
 	[overview setFrame:CGRectMake(0, 0, 320, 480)];
 	[self.view addSubview:overview];
@@ -139,9 +140,10 @@ extern  CGImageRef UIGetScreenImage();
 	imagePickerController.delegate = self;
 	imagePickerController.sourceType = UIImagePickerControllerSourceTypeCamera;
 	[self presentModalViewController:imagePickerController animated:YES];
+
 }
 -(void) showLiveCamera {
-	[imagePickerController dismissModalViewControllerAnimated:YES];
+	if (imagePickerController)	[imagePickerController dismissModalViewControllerAnimated:NO];
 	[bgImage setAlpha:0];
 	[overview setFrame:CGRectMake(0, -10, 320, 480)];
 	imagePickerController = [[[UIImagePickerController alloc] init] autorelease];
@@ -158,7 +160,6 @@ extern  CGImageRef UIGetScreenImage();
 -(void)imagePickerController:(UIImagePickerController *)picker didFinishPickingImage:(UIImage *)image editingInfo:(NSDictionary *)editingInfo {
 	NSData *imageData = UIImageJPEGRepresentation(image, 0.9);
 	UIImage *newImage = [UIImage imageWithData:imageData];
-	[newImage retain];
 	if (imagePickerController.sourceType == UIImagePickerControllerSourceTypeCamera) {
 		UIImageWriteToSavedPhotosAlbum(newImage, nil, nil, nil);
 	}
@@ -166,7 +167,17 @@ extern  CGImageRef UIGetScreenImage();
 	[bgImage setAlpha:1];
 
 	[imagePickerController dismissModalViewControllerAnimated:YES];
+	imagePickerController = nil;
 }
+
+- (void)imagePickerControllerDidCancel:(UIImagePickerController *)picker {
+	[self dismissModalViewControllerAnimated:YES];
+
+	imagePickerController = nil;
+	[bgImage setAlpha:1];
+
+}
+
 
 -(void) resize {
 	[theframe setFrame:CGRectMake(samplepoint.x-1, samplepoint.y-1, radius+2, radius+2)];
@@ -329,9 +340,6 @@ CFDataRef CopyImagePixels(CGImageRef inImage)
 		
 	}
 	
-}
-- (void) imagePickerControllerDidCancel:(UIImagePickerController *)picker {
-	[self dismissModalViewControllerAnimated:YES];
 }
 
 - (float) colorDistanceFrom:(UIColor*)from To:(UIColor*)to {

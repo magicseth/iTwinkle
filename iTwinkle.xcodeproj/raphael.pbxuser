@@ -15,22 +15,22 @@
 	};
 	28D7ACF60DDB3853001CB0EB /* iTwinkleViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1174, 806}}";
-			sepNavSelRange = "{1457, 0}";
-			sepNavVisRange = "{694, 1239}";
+			sepNavIntBoundsRect = "{{0, 0}, {1174, 871}}";
+			sepNavSelRange = "{260, 31}";
+			sepNavVisRange = "{0, 919}";
 			sepNavWindowFrame = "{{82, 42}, {1198, 736}}";
 		};
 	};
 	28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1566, 5538}}";
-			sepNavSelRange = "{5339, 0}";
-			sepNavVisRange = "{4604, 1591}";
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 5577}}";
+			sepNavSelRange = "{6411, 0}";
+			sepNavVisRange = "{5934, 1050}";
 			sepNavWindowFrame = "{{82, 42}, {1198, 736}}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
-		activeBuildConfigurationName = Adhoc;
+		activeBuildConfigurationName = Debug;
 		activeExecutable = 6424378C111667E4009065A7 /* iTwinkle */;
 		activeSDKPreference = iphoneos3.1;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* iTwinkle */;
@@ -38,17 +38,17 @@
 			1D6058900D05DD3D006BFB54 /* iTwinkle */,
 		);
 		breakpoints = (
-			64BC96AD1117404300990DE1 /* iTwinkleViewController.m:274 */,
-			64BC96C01117412500990DE1 /* iTwinkleViewController.m:282 */,
-			64BC96C71117414F00990DE1 /* iTwinkleViewController.m:281 */,
-			64BC971911175B6200990DE1 /* iTwinkleViewController.m:142 */,
-			64BC977511176A6100990DE1 /* iTwinkleViewController.m:341 */,
-			64BC977B11176AC800990DE1 /* iTwinkleViewController.m:303 */,
-			64BC97E81117753700990DE1 /* iTwinkleViewController.m:193 */,
-			64BC97F51117757E00990DE1 /* iTwinkleViewController.m:196 */,
-			642A99771118DE7B00B798DB /* iTwinkleViewController.m:419 */,
-			641C51E6111944BA0017E0A5 /* iTwinkleViewController.m:172 */,
-			641C523711194BB60017E0A5 /* iTwinkleViewController.m:295 */,
+			64BC96AD1117404300990DE1 /* iTwinkleViewController.m:285 */,
+			64BC96C01117412500990DE1 /* iTwinkleViewController.m:293 */,
+			64BC96C71117414F00990DE1 /* iTwinkleViewController.m:292 */,
+			64BC971911175B6200990DE1 /* iTwinkleViewController.m:144 */,
+			64BC977511176A6100990DE1 /* iTwinkleViewController.m:349 */,
+			64BC977B11176AC800990DE1 /* iTwinkleViewController.m:314 */,
+			64BC97E81117753700990DE1 /* iTwinkleViewController.m:204 */,
+			64BC97F51117757E00990DE1 /* iTwinkleViewController.m:207 */,
+			642A99771118DE7B00B798DB /* iTwinkleViewController.m:427 */,
+			641C51E6111944BA0017E0A5 /* iTwinkleViewController.m:183 */,
+			641C523711194BB60017E0A5 /* iTwinkleViewController.m:306 */,
 		);
 		codeSenseManager = 6424379C111667EE009065A7 /* Code sense */;
 		executables = (
@@ -225,6 +225,17 @@
 			641C52D81119532A0017E0A5 /* XCBuildMessageTextBookmark */ = 641C52D81119532A0017E0A5 /* XCBuildMessageTextBookmark */;
 			641C52D91119532A0017E0A5 /* PBXTextBookmark */ = 641C52D91119532A0017E0A5 /* PBXTextBookmark */;
 			641C52DD1119538D0017E0A5 /* PBXTextBookmark */ = 641C52DD1119538D0017E0A5 /* PBXTextBookmark */;
+			641C52E5111956390017E0A5 /* PBXTextBookmark */ = 641C52E5111956390017E0A5 /* PBXTextBookmark */;
+			641C52ED111956530017E0A5 /* PBXTextBookmark */ = 641C52ED111956530017E0A5 /* PBXTextBookmark */;
+			641C52F21119569A0017E0A5 /* PBXTextBookmark */ = 641C52F21119569A0017E0A5 /* PBXTextBookmark */;
+			641C53071119581F0017E0A5 /* PBXTextBookmark */ = 641C53071119581F0017E0A5 /* PBXTextBookmark */;
+			641C530C111959080017E0A5 /* XCBuildMessageTextBookmark */ = 641C530C111959080017E0A5 /* XCBuildMessageTextBookmark */;
+			641C530D111959080017E0A5 /* PBXTextBookmark */ = 641C530D111959080017E0A5 /* PBXTextBookmark */;
+			641C53121119591F0017E0A5 /* PBXTextBookmark */ = 641C53121119591F0017E0A5 /* PBXTextBookmark */;
+			641C53131119591F0017E0A5 /* PBXTextBookmark */ = 641C53131119591F0017E0A5 /* PBXTextBookmark */;
+			641C53151119591F0017E0A5 /* PBXTextBookmark */ = 641C53151119591F0017E0A5 /* PBXTextBookmark */;
+			641C53161119591F0017E0A5 /* XCBuildMessageTextBookmark */ = 641C53161119591F0017E0A5 /* XCBuildMessageTextBookmark */;
+			641C53171119591F0017E0A5 /* PBXTextBookmark */ = 641C53171119591F0017E0A5 /* PBXTextBookmark */;
 			642437BC11168EF4009065A7 = 642437BC11168EF4009065A7 /* PBXTextBookmark */;
 			642437CB1116900E009065A7 = 642437CB1116900E009065A7 /* PBXTextBookmark */;
 			642A98011117E26300B798DB = 642A98011117E26300B798DB /* PBXBookmark */;
@@ -394,7 +405,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 412";
 		rLen = 0;
-		rLoc = 13321;
+		rLoc = 13469;
 		rType = 0;
 		vrLen = 896;
 		vrLoc = 11404;
@@ -404,7 +415,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 412";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1274;
 		vrLoc = 10984;
@@ -414,7 +425,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 412";
 		rLen = 0;
-		rLoc = 13321;
+		rLoc = 13469;
 		rType = 0;
 		vrLen = 896;
 		vrLoc = 11404;
@@ -424,7 +435,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 66";
 		rLen = 428;
-		rLoc = 5143;
+		rLoc = 5225;
 		rType = 0;
 		vrLen = 1518;
 		vrLoc = 1795;
@@ -434,7 +445,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 412";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1274;
 		vrLoc = 10996;
@@ -444,7 +455,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 325";
 		rLen = 0;
-		rLoc = 10867;
+		rLoc = 11141;
 		rType = 0;
 		vrLen = 836;
 		vrLoc = 9205;
@@ -454,7 +465,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 415";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1271;
 		vrLoc = 11043;
@@ -464,7 +475,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 325";
 		rLen = 0;
-		rLoc = 10867;
+		rLoc = 11141;
 		rType = 0;
 		vrLen = 887;
 		vrLoc = 6658;
@@ -474,7 +485,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 415";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1271;
 		vrLoc = 11043;
@@ -484,7 +495,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 325";
 		rLen = 0;
-		rLoc = 10867;
+		rLoc = 11141;
 		rType = 0;
 		vrLen = 882;
 		vrLoc = 6663;
@@ -494,7 +505,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 415";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1252;
 		vrLoc = 11043;
@@ -504,7 +515,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 285";
 		rLen = 0;
-		rLoc = 8641;
+		rLoc = 8915;
 		rType = 0;
 		vrLen = 700;
 		vrLoc = 7977;
@@ -538,7 +549,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 417";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1274;
 		vrLoc = 11076;
@@ -560,7 +571,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 285";
 		rLen = 0;
-		rLoc = 8641;
+		rLoc = 8915;
 		rType = 0;
 		vrLen = 699;
 		vrLoc = 7977;
@@ -570,7 +581,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 198";
 		rLen = 0;
-		rLoc = 7665;
+		rLoc = 7939;
 		rType = 0;
 		vrLen = 857;
 		vrLoc = 5375;
@@ -580,7 +591,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 424";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1240;
 		vrLoc = 11113;
@@ -590,7 +601,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 76";
 		rLen = 0;
-		rLoc = 5571;
+		rLoc = 5653;
 		rType = 0;
 		vrLen = 1270;
 		vrLoc = 1612;
@@ -600,7 +611,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 76";
 		rLen = 0;
-		rLoc = 5571;
+		rLoc = 5653;
 		rType = 0;
 		vrLen = 1168;
 		vrLoc = 1714;
@@ -610,7 +621,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 424";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1240;
 		vrLoc = 11113;
@@ -620,7 +631,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 201";
 		rLen = 0;
-		rLoc = 7665;
+		rLoc = 7939;
 		rType = 0;
 		vrLen = 851;
 		vrLoc = 5371;
@@ -630,7 +641,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 425";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1240;
 		vrLoc = 11160;
@@ -640,7 +651,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 143";
 		rLen = 0;
-		rLoc = 6710;
+		rLoc = 6984;
 		rType = 0;
 		vrLen = 661;
 		vrLoc = 4144;
@@ -650,7 +661,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 427";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1192;
 		vrLoc = 11178;
@@ -660,7 +671,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 142";
 		rLen = 0;
-		rLoc = 6707;
+		rLoc = 6981;
 		rType = 0;
 		vrLen = 610;
 		vrLoc = 4242;
@@ -670,7 +681,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 427";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1192;
 		vrLoc = 11178;
@@ -680,7 +691,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 142";
 		rLen = 0;
-		rLoc = 6707;
+		rLoc = 6981;
 		rType = 0;
 		vrLen = 785;
 		vrLoc = 5427;
@@ -690,7 +701,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 427";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1192;
 		vrLoc = 11178;
@@ -700,7 +711,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 142";
 		rLen = 0;
-		rLoc = 6707;
+		rLoc = 6981;
 		rType = 0;
 		vrLen = 785;
 		vrLoc = 5427;
@@ -734,7 +745,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 427";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1280;
 		vrLoc = 11178;
@@ -756,7 +767,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 142";
 		rLen = 0;
-		rLoc = 6707;
+		rLoc = 6981;
 		rType = 0;
 		vrLen = 785;
 		vrLoc = 5427;
@@ -766,7 +777,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 220";
 		rLen = 0;
-		rLoc = 8482;
+		rLoc = 8756;
 		rType = 0;
 		vrLen = 1186;
 		vrLoc = 6518;
@@ -776,7 +787,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 407";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1243;
 		vrLoc = 11223;
@@ -796,7 +807,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 361";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1056;
 		vrLoc = 9153;
@@ -836,7 +847,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 368";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1090;
 		vrLoc = 9109;
@@ -847,7 +858,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 438;
+		rLoc = 446;
 		rType = 1;
 	};
 	641C51CE111941470017E0A5 /* PBXTextBookmark */ = {
@@ -855,7 +866,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 388";
 		rLen = 0;
-		rLoc = 13682;
+		rLoc = 13830;
 		rType = 0;
 		vrLen = 160;
 		vrLoc = 11195;
@@ -877,7 +888,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 122";
 		rLen = 16;
-		rLoc = 6196;
+		rLoc = 6470;
 		rType = 0;
 		vrLen = 1313;
 		vrLoc = 3239;
@@ -902,7 +913,7 @@
 		vrLen = 1228;
 		vrLoc = 568;
 	};
-	641C51E6111944BA0017E0A5 /* iTwinkleViewController.m:172 */ = {
+	641C51E6111944BA0017E0A5 /* iTwinkleViewController.m:183 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -914,9 +925,9 @@
 		functionName = "-resize";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 172;
+		lineNumber = 183;
 		location = iTwinkle;
-		modificationTime = 286872373.546838;
+		modificationTime = 286873641.364223;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -993,7 +1004,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 123";
 		rLen = 8;
-		rLoc = 6224;
+		rLoc = 6498;
 		rType = 0;
 		vrLen = 1148;
 		vrLoc = 3363;
@@ -1003,7 +1014,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 123";
 		rLen = 0;
-		rLoc = 6232;
+		rLoc = 6506;
 		rType = 0;
 		vrLen = 1137;
 		vrLoc = 3436;
@@ -1060,9 +1071,15 @@
 	};
 	641C5219111948910017E0A5 /* UIAlert.h */ = {
 		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
 		name = UIAlert.h;
 		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlert.h;
 		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1706, 3341}}";
+			sepNavSelRange = "{5204, 43}";
+			sepNavVisRange = "{4519, 1643}";
+		};
 	};
 	641C521A111948910017E0A5 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -1078,8 +1095,8 @@
 		isa = PBXTextBookmark;
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 111";
-		rLen = 109;
-		rLoc = 4518;
+		rLen = 136;
+		rLoc = 4546;
 		rType = 0;
 		vrLen = 1607;
 		vrLoc = 3097;
@@ -1099,7 +1116,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 121";
 		rLen = 0;
-		rLoc = 5111;
+		rLoc = 5193;
 		rType = 0;
 		vrLen = 1726;
 		vrLoc = 3114;
@@ -1109,7 +1126,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 113";
 		rLen = 0;
-		rLoc = 4601;
+		rLoc = 4656;
 		rType = 0;
 		vrLen = 1584;
 		vrLoc = 3081;
@@ -1119,12 +1136,12 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 275";
 		rLen = 0;
-		rLoc = 9781;
+		rLoc = 10055;
 		rType = 0;
 		vrLen = 1078;
 		vrLoc = 8584;
 	};
-	641C523711194BB60017E0A5 /* iTwinkleViewController.m:295 */ = {
+	641C523711194BB60017E0A5 /* iTwinkleViewController.m:306 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1136,9 +1153,9 @@
 		functionName = "-screenshot:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 295;
+		lineNumber = 306;
 		location = iTwinkle;
-		modificationTime = 286872373.546984;
+		modificationTime = 286873641.364394;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1147,7 +1164,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 275";
 		rLen = 0;
-		rLoc = 9781;
+		rLoc = 10055;
 		rType = 0;
 		vrLen = 1053;
 		vrLoc = 8584;
@@ -1157,7 +1174,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 275";
 		rLen = 0;
-		rLoc = 9778;
+		rLoc = 10052;
 		rType = 0;
 		vrLen = 1143;
 		vrLoc = 8343;
@@ -1167,7 +1184,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 298";
 		rLen = 0;
-		rLoc = 10573;
+		rLoc = 10847;
 		rType = 0;
 		vrLen = 1208;
 		vrLoc = 8584;
@@ -1488,7 +1505,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 149;
+		rLoc = 151;
 		rType = 1;
 	};
 	641C52D11119531B0017E0A5 /* PBXTextBookmark */ = {
@@ -1496,7 +1513,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 150";
 		rLen = 0;
-		rLoc = 5339;
+		rLoc = 5421;
 		rType = 0;
 		vrLen = 700;
 		vrLoc = 5092;
@@ -1507,7 +1524,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 149;
+		rLoc = 151;
 		rType = 1;
 	};
 	641C52D91119532A0017E0A5 /* PBXTextBookmark */ = {
@@ -1515,7 +1532,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 150";
 		rLen = 0;
-		rLoc = 5339;
+		rLoc = 5421;
 		rType = 0;
 		vrLen = 1610;
 		vrLoc = 4518;
@@ -1525,10 +1542,124 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 150";
 		rLen = 0;
-		rLoc = 5339;
+		rLoc = 5421;
 		rType = 0;
 		vrLen = 1591;
 		vrLoc = 4604;
+	};
+	641C52E5111956390017E0A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
+		name = "iTwinkleViewController.m: 161";
+		rLen = 0;
+		rLoc = 5990;
+		rType = 0;
+		vrLen = 1484;
+		vrLoc = 5004;
+	};
+	641C52ED111956530017E0A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
+		name = "iTwinkleViewController.m: 161";
+		rLen = 0;
+		rLoc = 5990;
+		rType = 0;
+		vrLen = 1484;
+		vrLoc = 5004;
+	};
+	641C52F21119569A0017E0A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
+		name = "iTwinkleViewController.m: 132";
+		rLen = 0;
+		rLoc = 4541;
+		rType = 0;
+		vrLen = 1536;
+		vrLoc = 4360;
+	};
+	641C53071119581F0017E0A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
+		name = "iTwinkleViewController.m: 170";
+		rLen = 0;
+		rLoc = 6283;
+		rType = 0;
+		vrLen = 1442;
+		vrLoc = 5174;
+	};
+	641C530C111959080017E0A5 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Redefinition of '-[iTwinkleViewController imagePickerControllerDidCancel:]'";
+		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 343;
+		rType = 1;
+	};
+	641C530D111959080017E0A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
+		name = "iTwinkleViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 292;
+		vrLoc = 0;
+	};
+	641C53121119591F0017E0A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 641C5219111948910017E0A5 /* UIAlert.h */;
+		name = "UIAlert.h: 119";
+		rLen = 43;
+		rLoc = 5204;
+		rType = 0;
+		vrLen = 1643;
+		vrLoc = 4519;
+	};
+	641C53131119591F0017E0A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 641C53141119591F0017E0A5 /* UIImagePickerController.h */;
+		name = "UIImagePickerController.h: 78";
+		rLen = 52;
+		rLoc = 4383;
+		rType = 0;
+		vrLen = 2630;
+		vrLoc = 3376;
+	};
+	641C53141119591F0017E0A5 /* UIImagePickerController.h */ = {
+		isa = PBXFileReference;
+		name = UIImagePickerController.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImagePickerController.h;
+		sourceTree = "<absolute>";
+	};
+	641C53151119591F0017E0A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iTwinkleViewController.h */;
+		name = "iTwinkleViewController.h: 12";
+		rLen = 31;
+		rLoc = 260;
+		rType = 0;
+		vrLen = 919;
+		vrLoc = 0;
+	};
+	641C53161119591F0017E0A5 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Redefinition of '-[iTwinkleViewController imagePickerControllerDidCancel:]'";
+		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 343;
+		rType = 1;
+	};
+	641C53171119591F0017E0A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
+		name = "iTwinkleViewController.m: 175";
+		rLen = 0;
+		rLoc = 6411;
+		rType = 0;
+		vrLen = 1050;
+		vrLoc = 5934;
 	};
 	6424378C111667E4009065A7 /* iTwinkle */ = {
 		isa = PBXExecutable;
@@ -1633,7 +1764,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 83";
 		rLen = 0;
-		rLoc = 5573;
+		rLoc = 5655;
 		rType = 0;
 		vrLen = 1276;
 		vrLoc = 2012;
@@ -1643,7 +1774,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 319";
 		rLen = 0;
-		rLoc = 11498;
+		rLoc = 11646;
 		rType = 0;
 		vrLen = 990;
 		vrLoc = 8957;
@@ -1683,7 +1814,7 @@
 		comments = "'UIImagePickerController' may not respond to '-setShowsCameraControls:'";
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		rLen = 1;
-		rLoc = 150;
+		rLoc = 152;
 		rType = 1;
 	};
 	642A986D1118894800B798DB /* PBXTextBookmark */ = {
@@ -1691,7 +1822,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 69";
 		rLen = 0;
-		rLoc = 5143;
+		rLoc = 5225;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 1601;
@@ -1701,7 +1832,7 @@
 		comments = "'UIImagePickerController' may not respond to '-setShowsCameraControls:'";
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		rLen = 1;
-		rLoc = 150;
+		rLoc = 152;
 		rType = 1;
 	};
 	642A987811188B2B00B798DB /* PBXTextBookmark */ = {
@@ -1709,7 +1840,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 69";
 		rLen = 0;
-		rLoc = 5143;
+		rLoc = 5225;
 		rType = 0;
 		vrLen = 891;
 		vrLoc = 1146;
@@ -1719,7 +1850,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 69";
 		rLen = 0;
-		rLoc = 5143;
+		rLoc = 5225;
 		rType = 0;
 		vrLen = 891;
 		vrLoc = 1146;
@@ -1749,7 +1880,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 82";
 		rLen = 0;
-		rLoc = 5573;
+		rLoc = 5655;
 		rType = 0;
 		vrLen = 1606;
 		vrLoc = 1601;
@@ -1759,7 +1890,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 82";
 		rLen = 0;
-		rLoc = 5573;
+		rLoc = 5655;
 		rType = 0;
 		vrLen = 1517;
 		vrLoc = 1720;
@@ -1814,7 +1945,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 82";
 		rLen = 0;
-		rLoc = 5573;
+		rLoc = 5655;
 		rType = 0;
 		vrLen = 1438;
 		vrLoc = 1799;
@@ -1824,7 +1955,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 212";
 		rLen = 0;
-		rLoc = 8359;
+		rLoc = 8633;
 		rType = 0;
 		vrLen = 672;
 		vrLoc = 5883;
@@ -1834,7 +1965,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 212";
 		rLen = 0;
-		rLoc = 8359;
+		rLoc = 8633;
 		rType = 0;
 		vrLen = 672;
 		vrLoc = 5883;
@@ -1900,7 +2031,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 329";
 		rLen = 73;
-		rLoc = 12320;
+		rLoc = 12468;
 		rType = 0;
 		vrLen = 525;
 		vrLoc = 9614;
@@ -1910,7 +2041,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 329";
 		rLen = 73;
-		rLoc = 12320;
+		rLoc = 12468;
 		rType = 0;
 		vrLen = 525;
 		vrLoc = 9614;
@@ -1964,7 +2095,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 325";
 		rLen = 59;
-		rLoc = 11518;
+		rLoc = 11666;
 		rType = 0;
 		vrLen = 1059;
 		vrLoc = 8869;
@@ -1974,7 +2105,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 278";
 		rLen = 0;
-		rLoc = 8641;
+		rLoc = 8915;
 		rType = 0;
 		vrLen = 896;
 		vrLoc = 7785;
@@ -1994,7 +2125,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 206";
 		rLen = 0;
-		rLoc = 8005;
+		rLoc = 8279;
 		rType = 0;
 		vrLen = 547;
 		vrLoc = 5880;
@@ -2004,7 +2135,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 291";
 		rLen = 0;
-		rLoc = 8641;
+		rLoc = 8915;
 		rType = 0;
 		vrLen = 894;
 		vrLoc = 8021;
@@ -2084,7 +2215,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 257";
 		rLen = 0;
-		rLoc = 8641;
+		rLoc = 8915;
 		rType = 0;
 		vrLen = 839;
 		vrLoc = 7130;
@@ -2094,7 +2225,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 413";
 		rLen = 0;
-		rLoc = 13336;
+		rLoc = 13484;
 		rType = 0;
 		vrLen = 894;
 		vrLoc = 11348;
@@ -2104,7 +2235,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 409";
 		rLen = 51;
-		rLoc = 13213;
+		rLoc = 13361;
 		rType = 0;
 		vrLen = 894;
 		vrLoc = 11348;
@@ -2119,7 +2250,7 @@
 		vrLen = 1056;
 		vrLoc = 647;
 	};
-	642A99771118DE7B00B798DB /* iTwinkleViewController.m:419 */ = {
+	642A99771118DE7B00B798DB /* iTwinkleViewController.m:427 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2131,9 +2262,9 @@
 		functionName = "-radiusSliderMoved:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 419;
+		lineNumber = 427;
 		location = iTwinkle;
-		modificationTime = 286872373.546667;
+		modificationTime = 286873641.364072;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2152,7 +2283,7 @@
 		comments = "'value' undeclared (first use in this function)";
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		rLen = 1;
-		rLoc = 419;
+		rLoc = 427;
 		rType = 1;
 	};
 	642A997F1118DF3E00B798DB /* PBXTextBookmark */ = {
@@ -2160,7 +2291,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 412";
 		rLen = 0;
-		rLoc = 13321;
+		rLoc = 13469;
 		rType = 0;
 		vrLen = 852;
 		vrLoc = 11402;
@@ -2180,7 +2311,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 411";
 		rLen = 0;
-		rLoc = 13320;
+		rLoc = 13468;
 		rType = 0;
 		vrLen = 1163;
 		vrLoc = 11132;
@@ -2190,7 +2321,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 411";
 		rLen = 0;
-		rLoc = 13319;
+		rLoc = 13467;
 		rType = 0;
 		vrLen = 1167;
 		vrLoc = 11135;
@@ -2200,7 +2331,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 412";
 		rLen = 0;
-		rLoc = 13321;
+		rLoc = 13469;
 		rType = 0;
 		vrLen = 871;
 		vrLoc = 11402;
@@ -2210,7 +2341,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 284";
 		rLen = 0;
-		rLoc = 8641;
+		rLoc = 8915;
 		rType = 0;
 		vrLen = 1301;
 		vrLoc = 7647;
@@ -2220,7 +2351,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 412";
 		rLen = 0;
-		rLoc = 13321;
+		rLoc = 13469;
 		rType = 0;
 		vrLen = 896;
 		vrLoc = 11404;
@@ -2230,12 +2361,12 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 412";
 		rLen = 0;
-		rLoc = 13323;
+		rLoc = 13471;
 		rType = 0;
 		vrLen = 1253;
 		vrLoc = 11004;
 	};
-	64BC96AD1117404300990DE1 /* iTwinkleViewController.m:274 */ = {
+	64BC96AD1117404300990DE1 /* iTwinkleViewController.m:285 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2247,13 +2378,13 @@
 		functionName = "-screenshot:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 274;
+		lineNumber = 285;
 		location = iTwinkle;
-		modificationTime = 286872373.544819;
+		modificationTime = 286873641.362379;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	64BC96C01117412500990DE1 /* iTwinkleViewController.m:282 */ = {
+	64BC96C01117412500990DE1 /* iTwinkleViewController.m:293 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2265,13 +2396,13 @@
 		functionName = "-screenshot:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 282;
+		lineNumber = 293;
 		location = iTwinkle;
-		modificationTime = 286872373.545209;
+		modificationTime = 286873641.362927;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	64BC96C71117414F00990DE1 /* iTwinkleViewController.m:281 */ = {
+	64BC96C71117414F00990DE1 /* iTwinkleViewController.m:292 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2283,13 +2414,13 @@
 		functionName = "-screenshot:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 281;
+		lineNumber = 292;
 		location = iTwinkle;
-		modificationTime = 286872373.545452;
+		modificationTime = 286873641.363111;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	64BC971911175B6200990DE1 /* iTwinkleViewController.m:142 */ = {
+	64BC971911175B6200990DE1 /* iTwinkleViewController.m:144 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2301,9 +2432,9 @@
 		functionName = "-setButtonColor:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 142;
+		lineNumber = 144;
 		location = iTwinkle;
-		modificationTime = 286872373.545612;
+		modificationTime = 286873641.363281;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2324,7 +2455,7 @@
 		rLen = 0;
 		rLoc = 9223372036854775808;
 	};
-	64BC977511176A6100990DE1 /* iTwinkleViewController.m:341 */ = {
+	64BC977511176A6100990DE1 /* iTwinkleViewController.m:349 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2336,13 +2467,13 @@
 		functionName = "-colorDistanceFrom:To:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 341;
+		lineNumber = 349;
 		location = iTwinkle;
-		modificationTime = 286872373.545792;
+		modificationTime = 286873641.363426;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	64BC977B11176AC800990DE1 /* iTwinkleViewController.m:303 */ = {
+	64BC977B11176AC800990DE1 /* iTwinkleViewController.m:314 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2354,9 +2485,9 @@
 		functionName = "-screenshot:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 303;
+		lineNumber = 314;
 		location = iTwinkle;
-		modificationTime = 286872373.545947;
+		modificationTime = 286873641.363579;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2372,7 +2503,7 @@
 		rLen = 0;
 		rLoc = 9223372036854775808;
 	};
-	64BC97E81117753700990DE1 /* iTwinkleViewController.m:193 */ = {
+	64BC97E81117753700990DE1 /* iTwinkleViewController.m:204 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2384,9 +2515,9 @@
 		functionName = "-playSound:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 193;
+		lineNumber = 204;
 		location = iTwinkle;
-		modificationTime = 286872373.546153;
+		modificationTime = 286873641.36374;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2407,7 +2538,7 @@
 		vrLen = 903;
 		vrLoc = 0;
 	};
-	64BC97F51117757E00990DE1 /* iTwinkleViewController.m:196 */ = {
+	64BC97F51117757E00990DE1 /* iTwinkleViewController.m:207 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2419,9 +2550,9 @@
 		functionName = "-playSound:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 196;
+		lineNumber = 207;
 		location = iTwinkle;
-		modificationTime = 286872373.54642;
+		modificationTime = 286873641.363906;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2635,7 +2766,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 73";
 		rLen = 0;
-		rLoc = 5573;
+		rLoc = 5655;
 		rType = 0;
 		vrLen = 1261;
 		vrLoc = 1747;
@@ -2655,7 +2786,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 119";
 		rLen = 0;
-		rLoc = 7164;
+		rLoc = 7438;
 		rType = 0;
 		vrLen = 621;
 		vrLoc = 462;
@@ -2665,7 +2796,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 84";
 		rLen = 0;
-		rLoc = 5573;
+		rLoc = 5655;
 		rType = 0;
 		vrLen = 1321;
 		vrLoc = 1653;
@@ -2675,7 +2806,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 85";
 		rLen = 0;
-		rLoc = 5573;
+		rLoc = 5655;
 		rType = 0;
 		vrLen = 1032;
 		vrLoc = 2122;
@@ -2695,7 +2826,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 181";
 		rLen = 0;
-		rLoc = 8479;
+		rLoc = 8753;
 		rType = 0;
 		vrLen = 698;
 		vrLoc = 4959;
@@ -2705,7 +2836,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 181";
 		rLen = 0;
-		rLoc = 8479;
+		rLoc = 8753;
 		rType = 0;
 		vrLen = 688;
 		vrLoc = 4846;
@@ -2725,7 +2856,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 179";
 		rLen = 43;
-		rLoc = 8167;
+		rLoc = 8441;
 		rType = 0;
 		vrLen = 816;
 		vrLoc = 4672;
@@ -2735,7 +2866,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 185";
 		rLen = 0;
-		rLoc = 8425;
+		rLoc = 8699;
 		rType = 0;
 		vrLen = 937;
 		vrLoc = 4672;
@@ -2745,7 +2876,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 63";
 		rLen = 14;
-		rLoc = 4987;
+		rLoc = 5043;
 		rType = 0;
 		vrLen = 1089;
 		vrLoc = 1181;
@@ -2795,7 +2926,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 185";
 		rLen = 0;
-		rLoc = 8425;
+		rLoc = 8699;
 		rType = 0;
 		vrLen = 681;
 		vrLoc = 5020;
@@ -2825,7 +2956,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 80";
 		rLen = 0;
-		rLoc = 5573;
+		rLoc = 5655;
 		rType = 0;
 		vrLen = 1219;
 		vrLoc = 1372;
@@ -2835,7 +2966,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 83";
 		rLen = 0;
-		rLoc = 5573;
+		rLoc = 5655;
 		rType = 0;
 		vrLen = 1503;
 		vrLoc = 1623;
@@ -2845,7 +2976,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 83";
 		rLen = 0;
-		rLoc = 5573;
+		rLoc = 5655;
 		rType = 0;
 		vrLen = 1364;
 		vrLoc = 1853;
@@ -2854,7 +2985,7 @@
 		isa = PBXTextBookmark;
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		rLen = 1;
-		rLoc = 145;
+		rLoc = 147;
 		rType = 1;
 	};
 	64CC19871117CCEC003DEDFE /* PBXTextBookmark */ = {
@@ -2872,7 +3003,7 @@
 		comments = "Conflicting types for '-(BOOL)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event'";
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		rLen = 1;
-		rLoc = 174;
+		rLoc = 185;
 		rType = 1;
 	};
 	64CC199D1117CE26003DEDFE /* PBXTextBookmark */ = {
@@ -2880,7 +3011,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 120";
 		rLen = 0;
-		rLoc = 6304;
+		rLoc = 6578;
 		rType = 0;
 		vrLen = 352;
 		vrLoc = 3546;
@@ -2900,7 +3031,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 120";
 		rLen = 67;
-		rLoc = 6304;
+		rLoc = 6578;
 		rType = 0;
 		vrLen = 722;
 		vrLoc = 3600;
@@ -2930,7 +3061,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 129";
 		rLen = 0;
-		rLoc = 6756;
+		rLoc = 7030;
 		rType = 0;
 		vrLen = 683;
 		vrLoc = 3853;
@@ -2940,7 +3071,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 129";
 		rLen = 0;
-		rLoc = 6756;
+		rLoc = 7030;
 		rType = 0;
 		vrLen = 686;
 		vrLoc = 3953;
@@ -2950,7 +3081,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 129";
 		rLen = 0;
-		rLoc = 6756;
+		rLoc = 7030;
 		rType = 0;
 		vrLen = 731;
 		vrLoc = 3953;
@@ -2960,7 +3091,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 129";
 		rLen = 0;
-		rLoc = 6756;
+		rLoc = 7030;
 		rType = 0;
 		vrLen = 731;
 		vrLoc = 3953;
@@ -3114,7 +3245,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 254";
 		rLen = 0;
-		rLoc = 8641;
+		rLoc = 8915;
 		rType = 0;
 		vrLen = 859;
 		vrLoc = 7212;
@@ -3124,7 +3255,7 @@
 		comments = "Unused variable 'squaresize'";
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		rLen = 1;
-		rLoc = 266;
+		rLoc = 277;
 		rType = 1;
 	};
 	64CC1A071117D55D003DEDFE /* PBXTextBookmark */ = {
@@ -3132,7 +3263,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 234";
 		rLen = 0;
-		rLoc = 8641;
+		rLoc = 8915;
 		rType = 0;
 		vrLen = 437;
 		vrLoc = 6726;
@@ -3142,7 +3273,7 @@
 		comments = "Conflicting types for 'r'";
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		rLen = 1;
-		rLoc = 280;
+		rLoc = 291;
 		rType = 1;
 	};
 	64CC1A091117D561003DEDFE /* PBXTextBookmark */ = {
@@ -3150,7 +3281,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 249";
 		rLen = 0;
-		rLoc = 8641;
+		rLoc = 8915;
 		rType = 0;
 		vrLen = 366;
 		vrLoc = 7163;
@@ -3170,7 +3301,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 234";
 		rLen = 0;
-		rLoc = 8641;
+		rLoc = 8915;
 		rType = 0;
 		vrLen = 929;
 		vrLoc = 6402;
@@ -3190,7 +3321,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 197";
 		rLen = 54;
-		rLoc = 7786;
+		rLoc = 8060;
 		rType = 0;
 		vrLen = 714;
 		vrLoc = 5404;
@@ -3220,7 +3351,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 201";
 		rLen = 0;
-		rLoc = 7944;
+		rLoc = 8218;
 		rType = 0;
 		vrLen = 737;
 		vrLoc = 5482;
@@ -3230,7 +3361,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 201";
 		rLen = 0;
-		rLoc = 7944;
+		rLoc = 8218;
 		rType = 0;
 		vrLen = 737;
 		vrLoc = 5482;
@@ -3240,7 +3371,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 193";
 		rLen = 0;
-		rLoc = 7714;
+		rLoc = 7988;
 		rType = 0;
 		vrLen = 590;
 		vrLoc = 5636;
@@ -3250,7 +3381,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */;
 		name = "iTwinkleViewController.m: 193";
 		rLen = 0;
-		rLoc = 7714;
+		rLoc = 7988;
 		rType = 0;
 		vrLen = 590;
 		vrLoc = 5636;
