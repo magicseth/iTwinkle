@@ -1,0 +1,1154 @@
+TiTwinkle
+v7
+r0
+t286872362.235439
+cCheck dependencies
+cCpResource build/Debug-iphoneos/iTwinkle.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/Info.plist iTwinkle-Info.plist
+cCompileXIB /Users/raphael/Development/JayCollaboration/iTwinkle/MainWindow.xib
+cCompileXIB /Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkleViewController.xib
+cCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/miislogo.png miislogo.png
+cCopyPlistFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/notes.plist Classes/notes.plist
+cCopyPlistFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/wavfiles.plist wavfiles.plist
+cCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/frame.png frame.png
+cCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/icon.png icon.png
+cCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/Default.png Default.png
+cCopyPlistFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/Entitlements.plist Entitlements.plist
+cCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/86-camera.png 86-camera.png
+cCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/12-eye.png 12-eye.png
+cCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/42-photos.png 42-photos.png
+cCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/65-note.png 65-note.png
+cCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/muted.png muted.png
+cCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/twinkle.png twinkle.png
+cCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/19-gear.png 19-gear.png
+cCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/40-inbox.png 40-inbox.png
+cCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/98-palette.png 98-palette.png
+cCpResource build/Debug-iphoneos/iTwinkle.app/1.aiff 1.aiff
+cCpResource build/Debug-iphoneos/iTwinkle.app/2.aiff 2.aiff
+cCpResource build/Debug-iphoneos/iTwinkle.app/3.aiff 3.aiff
+cCpResource build/Debug-iphoneos/iTwinkle.app/4.aiff 4.aiff
+cCpResource build/Debug-iphoneos/iTwinkle.app/5.aiff 5.aiff
+cCpResource build/Debug-iphoneos/iTwinkle.app/6.aiff 6.aiff
+cCpResource build/Debug-iphoneos/iTwinkle.app/7.aiff 7.aiff
+cProcessPCH /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-ahpbjmnkuilcifeuwnzlwrcktxak/iTwinkle_Prefix.pch.gch iTwinkle_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/main.o /Users/raphael/Development/JayCollaboration/iTwinkle/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/iTwinkleAppDelegate.o /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/iTwinkleViewController.o /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/TouchSensitiveView.o /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/TouchSensitiveView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/iTwinkle normal armv6
+cGenerateDSYMFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app.dSYM /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/iTwinkle
+cProcessProductPackaging "/Users/raphael/Library/MobileDevice/Provisioning Profiles/7F802908-6E38-4C3A-A10D-966727664EF1.mobileprovision" /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/embedded.mobileprovision
+cTouch /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent
+cCodeSign /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk
+c000000004B47D28D0000000000000110
+t1262998157
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist
+c000000004A0BA04000000000000000DD
+t1242275904
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+c000000004A0BA04000000000000001E5
+t1242275904
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004A12213B000000000001B0E0
+t1242702139
+s110816
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004A0BB36E00000000000000EB
+t1242280814
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A121EB900000000003D72A0
+t1242701497
+s4027040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A121FF90000000000396540
+t1242701817
+s3761472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAECB0000000000001355
+t1242279627
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BB209000000000000007D
+t1242280457
+s125
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBD000000000000075E
+t1242349245
+s1886
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A1221FD00000000019A6110
+t1242702333
+s26894608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk
+c000000004B47D7B70000000000000110
+t1262999479
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist
+c000000004ABDB88400000000000000DD
+t1253947524
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+c000000004ABDB88400000000000001E5
+t1253947524
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004ABDBEB0000000000001ADC0
+t1253949104
+s110016
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004ABDBEAE00000000000000EB
+t1253949102
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDBA1300000000005F49B0
+t1253947923
+s6244784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDBDCF0000000000501440
+t1253948879
+s5248064
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDBDA40000000000001355
+t1253948836
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDD0D10000000000000788
+t1253953745
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDD2250000000001B3F550
+t1253954085
+s28570960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk
+c000000004B47C9600000000000000110
+t1262995808
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist
+c000000004A767D3000000000000000DD
+t1249279280
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+c000000004A767D3000000000000001E5
+t1249279280
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004A76573E000000000001AD10
+t1249269566
+s109840
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004A76573C00000000000000EB
+t1249269564
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A82198D00000000005F4900
+t1250040205
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A76566F0000000000501370
+t1249269359
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7656460000000000001355
+t1249269318
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A7658A1000000000000007D
+t1249269921
+s125
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E9C0000000000000788
+t1249668764
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6FEF0000000001B3F450
+t1249669103
+s28570704
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/1.aiff
+c000000004B687895000000000017CF80
+t1265137813
+s1560448
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/12-eye.png
+c00000000497241740000000000000142
+t1232224628
+s322
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/19-gear.png
+c00000000497241AE000000000000019D
+t1232224686
+s413
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/2.aiff
+c000000004B6878ED00000000001A5ABC
+t1265137901
+s1727164
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/2noattack.aiff
+c000000004B68761600000000001AED08
+t1265137174
+s1764616
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/3.aiff
+c000000004B68794400000000001A2498
+t1265137988
+s1713304
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/4.aiff
+c000000004B6879A600000000001AC4B0
+t1265138086
+s1754288
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/40-inbox.png
+c0000000049B82BF6000000000000015B
+t1236806646
+s347
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/42-photos.png
+c00000000497242A800000000000000B1
+t1232224936
+s177
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/44929__digifishmusic__Solfege_Do.wav
+c000000004B673AB60000000000025768
+t1265056438
+s153448
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/44931__digifishmusic__Solfege_Fa.wav
+c000000004B673AD30000000000033FF8
+t1265056467
+s212984
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/44932__digifishmusic__Solfege_La.wav
+c000000004B673AD8000000000002F448
+t1265056472
+s193608
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/44933__digifishmusic__Solfege_Me.wav
+c000000004B673ACF00000000000308F4
+t1265056463
+s198900
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/44934__digifishmusic__Solfege_Re.wav
+c000000004B673ACB0000000000029B98
+t1265056459
+s170904
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/44935__digifishmusic__Solfege_So.wav
+c000000004B673AD50000000000037958
+t1265056469
+s227672
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/44936__digifishmusic__Solfege_Ti.wav
+c000000004B673ADB000000000002F3E0
+t1265056475
+s193504
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/5.aiff
+c000000004B6879C300000000001AAD3C
+t1265138115
+s1748284
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/6.aiff
+c000000004B68777500000000001A7B4C
+t1265137525
+s1735500
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/65-note.png
+c0000000049F484340000000000000102
+t1240761396
+s258
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/7.aiff
+c000000004B68775A0000000000114CB8
+t1265137498
+s1133752
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/86-camera.png
+c000000004A3E9F84000000000000015A
+t1245618052
+s346
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/98-palette.png
+c000000004A3EA00E00000000000001C4
+t1245618190
+s452
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/Entitlements.plist
+c000000004B6747A600000000000000E1
+t1265059750
+s225
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/TouchSensitiveView.h
+c000000004B679A7300000000000000D8
+t1265080947
+s216
+i<UIKit/UIKit.h>
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/TouchSensitiveView.m
+c000000004B679B94000000000000041E
+t1265081236
+s1054
+i"TouchSensitiveView.h"
+i"iTwinkleAppDelegate.h"
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleAppDelegate.h
+c000000004B66306300000000000001DD
+t1264988259
+s477
+i<UIKit/UIKit.h>
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleAppDelegate.m
+c000000004B690CC000000000000002C7
+t1265175744
+s711
+i"iTwinkleAppDelegate.h"
+i"iTwinkleViewController.h"
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.h
+c000000004B6910A6000000000000078D
+t1265176742
+s1933
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m
+c000000004B691B8B0000000000003577
+t1265179531
+s13687
+i"iTwinkleViewController.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/notes.plist
+c000000004B6726A80000000000000166
+t1265051304
+s358
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/untitled.plist
+c000000004B6726840000000000000151
+t1265051268
+s337
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/Default.png
+c000000004B67A384000000000000B744
+t1265083268
+s46916
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/Entitlements.plist
+c000000004B6747A600000000000000E1
+t1265059750
+s225
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/MainWindow.xib
+c000000004B6630630000000000002661
+t1264988259
+s9825
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app
+t1265179562
+s1156
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app.dSYM
+t1265179561
+s102
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/1.aiff
+t1265179561
+s1560448
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/12-eye.png
+t1265179561
+s426
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/19-gear.png
+t1265179561
+s541
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/2.aiff
+t1265179561
+s1727164
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/2noattack.aiff
+t1265137205
+s1764616
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/3.aiff
+t1265179561
+s1713304
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/4.aiff
+t1265179561
+s1754288
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/40-inbox.png
+t1265179561
+s412
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/42-photos.png
+t1265179561
+s172
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/44929__digifishmusic__Solfege_Do.wav
+t1265142266
+s153448
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/44931__digifishmusic__Solfege_Fa.wav
+t1265142266
+s212984
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/44932__digifishmusic__Solfege_La.wav
+t1265142266
+s193608
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/44933__digifishmusic__Solfege_Me.wav
+t1265142266
+s198900
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/44934__digifishmusic__Solfege_Re.wav
+t1265142266
+s170904
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/44935__digifishmusic__Solfege_So.wav
+t1265142266
+s227672
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/44936__digifishmusic__Solfege_Ti.wav
+t1265142266
+s193504
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/5.aiff
+t1265179561
+s1748284
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/6.aiff
+t1265179561
+s1735500
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/65-note.png
+t1265179561
+s300
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/7.aiff
+t1265179561
+s1133752
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/86-camera.png
+t1265179561
+s332
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/98-palette.png
+t1265179561
+s506
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/Default.png
+t1265179561
+s55948
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/Entitlements.plist
+t1265179560
+s62
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/Info.plist
+t1265179560
+s716
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/MainWindow.nib
+t1265179560
+s1095
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/PkgInfo
+t1265179560
+s8
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/ResourceRules.plist
+t1265179560
+s485
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/embedded.mobileprovision
+t1265179561
+s7901
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/frame.png
+t1265179560
+s2860
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/iTwinkle
+t1265179561
+s45296
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/iTwinkleViewController.nib
+t1265179560
+s2415
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/icon.png
+t1265179560
+s7371
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/miislogo.png
+t1265179560
+s78621
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/muted.png
+t1265179561
+s3238
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/notes.plist
+t1265179560
+s78
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/twinkle.png
+t1265179561
+s46200
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/untitled.plist
+t2
+s0
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/wavfiles.plist
+t1265179560
+s105
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/TouchSensitiveView.o
+t1265179561
+s16312
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/iTwinkle.LinkFileList
+c000000004B691BA8000000000000023F
+t1265179560
+s575
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/iTwinkleAppDelegate.o
+t1265179561
+s41604
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/iTwinkleViewController.o
+t1265179561
+s90464
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/main.o
+t1265179561
+s6468
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent
+t1265179561
+s319
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/frame.png
+c000000004B6856930000000000000B3C
+t1265129107
+s2876
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkleViewController.xib
+c000000004B6911F200000000000083EB
+t1265177074
+s33771
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkle_Prefix.pch
+c000000004B66306300000000000000B9
+t1264988259
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/icon.png
+c000000004B674AB00000000000001CC5
+t1265060528
+s7365
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/main.m
+c000000004B6630630000000000000162
+t1264988259
+s354
+i<UIKit/UIKit.h>
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/miislogo.png
+c000000004B45007A000000000001375F
+t1262813306
+s79711
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/muted.png
+c000000004B678F330000000000000CC3
+t1265078067
+s3267
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/twinkle.png
+c000000004B67A223000000000000A498
+t1265082915
+s42136
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/wavfiles.plist
+c000000004B687A72000000000000016D
+t1265138290
+s365
+
+N/Users/raphael/Library/MobileDevice/Provisioning Profiles/0469765C-D278-4C5C-8B6F-D42FFB9F752F.mobileprovision
+c000000004AD3DDAC0000000000001DE6
+t1255398828
+s7654
+
+N/Users/raphael/Library/MobileDevice/Provisioning Profiles/7F802908-6E38-4C3A-A10D-966727664EF1.mobileprovision
+c000000004B3BEAD80000000000001EDD
+t1262217944
+s7901
+
+N/var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-ahpbjmnkuilcifeuwnzlwrcktxak/iTwinkle_Prefix.pch.gch
+t1265058332
+s8388792
+
+N/var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-eybznncvwaexvdbhpecxopxhmsbj/iTwinkle_Prefix.pch.gch
+t1265126163
+s8339584
+
+N/var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-gbppdcbwvtuigphdhmrsevudsbwj/iTwinkle_Prefix.pch.gch
+t1265000252
+s8388792
+
+NiTwinkle-Info.plist
+c000000004B690DC300000000000003BA
+t1265176003
+s954
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286872360#286872360#0(0"0(0#1#0"4300952784#0"0#
+
+CCodeSign /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app
+s286872361.981373
+e286872362.235386
+r1
+xCodeSign
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app
+lSLF07#2@42"CodeSign build/Debug-iphoneos/iTwinkle.app286872361#286872362#0(0"0(0#0#86"/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app4300952784#790"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/codesign -f -s "iPhone Developer: Seth Raphael (V7EAG5X4FW)" --resource-rules=/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/ResourceRules.plist --entitlements /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCompileC build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/TouchSensitiveView.o /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/TouchSensitiveView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s286872361.617481
+e286872361.705289
+r1
+xCompileC
+xbuild/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/TouchSensitiveView.o
+x/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/TouchSensitiveView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/TouchSensitiveView.m286872361#286872361#0(0"0(0#0#81"/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/TouchSensitiveView.m4300952784#1996"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-generated-files.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-own-target-headers.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-all-target-headers.hmap -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-project-headers.hmap -F/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/include -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/DerivedSources/armv6 -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/DerivedSources -include /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-ahpbjmnkuilcifeuwnzlwrcktxak/iTwinkle_Prefix.pch -c /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/TouchSensitiveView.m -o /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/TouchSensitiveView.o0#
+
+CCompileC build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/iTwinkleAppDelegate.o /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s286872361.499601
+e286872361.617218
+r1
+xCompileC
+xbuild/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/iTwinkleAppDelegate.o
+x/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleAppDelegate.m286872361#286872361#0(0"0(0#0#82"/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleAppDelegate.m4300952784#1998"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-generated-files.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-own-target-headers.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-all-target-headers.hmap -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-project-headers.hmap -F/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/include -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/DerivedSources/armv6 -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/DerivedSources -include /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-ahpbjmnkuilcifeuwnzlwrcktxak/iTwinkle_Prefix.pch -c /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleAppDelegate.m -o /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/iTwinkleAppDelegate.o0#
+
+CCompileC build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/iTwinkleViewController.o /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s286872361.579712
+e286872361.859437
+r1
+xCompileC
+xbuild/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/iTwinkleViewController.o
+x/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m286872361#286872361#0(0"0(0#0#85"/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m4300952784#2004"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-generated-files.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-own-target-headers.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-all-target-headers.hmap -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-project-headers.hmap -F/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/include -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/DerivedSources/armv6 -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/DerivedSources -include /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-ahpbjmnkuilcifeuwnzlwrcktxak/iTwinkle_Prefix.pch -c /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m -o /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/iTwinkleViewController.o0#
+
+CCompileC build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/main.o /Users/raphael/Development/JayCollaboration/iTwinkle/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s286872361.498184
+e286872361.579571
+r1
+xCompileC
+xbuild/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/main.o
+x/Users/raphael/Development/JayCollaboration/iTwinkle/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/raphael/Development/JayCollaboration/iTwinkle/main.m286872361#286872361#0(0"0(0#0#59"/Users/raphael/Development/JayCollaboration/iTwinkle/main.m4300952784#1960"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-generated-files.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-own-target-headers.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-all-target-headers.hmap -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-project-headers.hmap -F/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/include -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/DerivedSources/armv6 -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/DerivedSources -include /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-ahpbjmnkuilcifeuwnzlwrcktxak/iTwinkle_Prefix.pch -c /Users/raphael/Development/JayCollaboration/iTwinkle/main.m -o /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/raphael/Development/JayCollaboration/iTwinkle/MainWindow.xib
+s286872360.112007
+e286872360.587395
+r1
+xCompileXIB
+x/Users/raphael/Development/JayCollaboration/iTwinkle/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib286872360#286872360#0(0"0(0#0#67"/Users/raphael/Development/JayCollaboration/iTwinkle/MainWindow.xib4300952784#571"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/MainWindow.nib /Users/raphael/Development/JayCollaboration/iTwinkle/MainWindow.xib0#
+
+CCompileXIB /Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkleViewController.xib
+s286872360.114251
+e286872360.765074
+r1
+xCompileXIB
+x/Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkleViewController.xib
+lSLF07#2@37"CompileXIB iTwinkleViewController.xib286872360#286872360#0(0"0(0#0#79"/Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkleViewController.xib4300952784#595"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/iTwinkleViewController.nib /Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkleViewController.xib0#
+
+CCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/12-eye.png 12-eye.png
+s286872361.013769
+e286872361.049487
+r1
+xCopyPNGFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/12-eye.png
+x12-eye.png
+lSLF07#2@67"CopyPNGFile build/Debug-iphoneos/iTwinkle.app/12-eye.png 12-eye.png286872361#286872361#0(0"0(0#0#63"/Users/raphael/Development/JayCollaboration/iTwinkle/12-eye.png4300952784#665"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/raphael/Development/JayCollaboration/iTwinkle/12-eye.png /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/12-eye.png0#
+
+CCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/19-gear.png 19-gear.png
+s286872361.189031
+e286872361.226058
+r1
+xCopyPNGFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/19-gear.png
+x19-gear.png
+lSLF07#2@69"CopyPNGFile build/Debug-iphoneos/iTwinkle.app/19-gear.png 19-gear.png286872361#286872361#0(0"0(0#0#64"/Users/raphael/Development/JayCollaboration/iTwinkle/19-gear.png4300952784#667"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/raphael/Development/JayCollaboration/iTwinkle/19-gear.png /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/19-gear.png0#
+
+CCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/40-inbox.png 40-inbox.png
+s286872361.226181
+e286872361.258005
+r1
+xCopyPNGFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/40-inbox.png
+x40-inbox.png
+lSLF07#2@71"CopyPNGFile build/Debug-iphoneos/iTwinkle.app/40-inbox.png 40-inbox.png286872361#286872361#0(0"0(0#0#65"/Users/raphael/Development/JayCollaboration/iTwinkle/40-inbox.png4300952784#669"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/raphael/Development/JayCollaboration/iTwinkle/40-inbox.png /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/40-inbox.png0#
+
+CCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/42-photos.png 42-photos.png
+s286872361.049604
+e286872361.084259
+r1
+xCopyPNGFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/42-photos.png
+x42-photos.png
+lSLF07#2@73"CopyPNGFile build/Debug-iphoneos/iTwinkle.app/42-photos.png 42-photos.png286872361#286872361#0(0"0(0#0#66"/Users/raphael/Development/JayCollaboration/iTwinkle/42-photos.png4300952784#671"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/raphael/Development/JayCollaboration/iTwinkle/42-photos.png /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/42-photos.png0#
+
+CCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/65-note.png 65-note.png
+s286872361.084538
+e286872361.124132
+r1
+xCopyPNGFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/65-note.png
+x65-note.png
+lSLF07#2@69"CopyPNGFile build/Debug-iphoneos/iTwinkle.app/65-note.png 65-note.png286872361#286872361#0(0"0(0#0#64"/Users/raphael/Development/JayCollaboration/iTwinkle/65-note.png4300952784#667"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/raphael/Development/JayCollaboration/iTwinkle/65-note.png /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/65-note.png0#
+
+CCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/86-camera.png 86-camera.png
+s286872360.978327
+e286872361.013650
+r1
+xCopyPNGFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/86-camera.png
+x86-camera.png
+lSLF07#2@73"CopyPNGFile build/Debug-iphoneos/iTwinkle.app/86-camera.png 86-camera.png286872360#286872361#0(0"0(0#0#66"/Users/raphael/Development/JayCollaboration/iTwinkle/86-camera.png4300952784#671"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/raphael/Development/JayCollaboration/iTwinkle/86-camera.png /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/86-camera.png0#
+
+CCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/98-palette.png 98-palette.png
+s286872361.258125
+e286872361.290512
+r1
+xCopyPNGFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/98-palette.png
+x98-palette.png
+lSLF07#2@75"CopyPNGFile build/Debug-iphoneos/iTwinkle.app/98-palette.png 98-palette.png286872361#286872361#0(0"0(0#0#67"/Users/raphael/Development/JayCollaboration/iTwinkle/98-palette.png4300952784#673"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/raphael/Development/JayCollaboration/iTwinkle/98-palette.png /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/98-palette.png0#
+
+CCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/Default.png Default.png
+s286872360.889355
+e286872361.188910
+r1
+xCopyPNGFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/Default.png
+xDefault.png
+lSLF07#2@69"CopyPNGFile build/Debug-iphoneos/iTwinkle.app/Default.png Default.png286872360#286872361#0(0"0(0#0#64"/Users/raphael/Development/JayCollaboration/iTwinkle/Default.png4300952784#667"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/raphael/Development/JayCollaboration/iTwinkle/Default.png /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/Default.png0#
+
+CCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/frame.png frame.png
+s286872360.849674
+e286872360.889263
+r1
+xCopyPNGFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/frame.png
+xframe.png
+lSLF07#2@65"CopyPNGFile build/Debug-iphoneos/iTwinkle.app/frame.png frame.png286872360#286872360#0(0"0(0#0#62"/Users/raphael/Development/JayCollaboration/iTwinkle/frame.png4300952784#663"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/raphael/Development/JayCollaboration/iTwinkle/frame.png /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/frame.png0#
+
+CCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/icon.png icon.png
+s286872360.887506
+e286872360.946544
+r1
+xCopyPNGFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/icon.png
+xicon.png
+lSLF07#2@63"CopyPNGFile build/Debug-iphoneos/iTwinkle.app/icon.png icon.png286872360#286872360#0(0"0(0#0#61"/Users/raphael/Development/JayCollaboration/iTwinkle/icon.png4300952784#661"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/raphael/Development/JayCollaboration/iTwinkle/icon.png /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/icon.png0#
+
+CCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/miislogo.png miislogo.png
+s286872360.587520
+e286872360.849579
+r1
+xCopyPNGFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/miislogo.png
+xmiislogo.png
+lSLF07#2@71"CopyPNGFile build/Debug-iphoneos/iTwinkle.app/miislogo.png miislogo.png286872360#286872360#0(0"0(0#0#65"/Users/raphael/Development/JayCollaboration/iTwinkle/miislogo.png4300952784#669"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/raphael/Development/JayCollaboration/iTwinkle/miislogo.png /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/miislogo.png0#
+
+CCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/muted.png muted.png
+s286872361.124241
+e286872361.157089
+r1
+xCopyPNGFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/muted.png
+xmuted.png
+lSLF07#2@65"CopyPNGFile build/Debug-iphoneos/iTwinkle.app/muted.png muted.png286872361#286872361#0(0"0(0#0#62"/Users/raphael/Development/JayCollaboration/iTwinkle/muted.png4300952784#663"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/raphael/Development/JayCollaboration/iTwinkle/muted.png /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/muted.png0#
+
+CCopyPNGFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/twinkle.png twinkle.png
+s286872361.157202
+e286872361.497897
+r1
+xCopyPNGFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/twinkle.png
+xtwinkle.png
+lSLF07#2@69"CopyPNGFile build/Debug-iphoneos/iTwinkle.app/twinkle.png twinkle.png286872361#286872361#0(0"0(0#0#64"/Users/raphael/Development/JayCollaboration/iTwinkle/twinkle.png4300952784#667"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/raphael/Development/JayCollaboration/iTwinkle/twinkle.png /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/twinkle.png0#
+
+CCopyPlistFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/Entitlements.plist Classes/Entitlements.plist
+r0
+
+CCopyPlistFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/Entitlements.plist Entitlements.plist
+s286872360.947046
+e286872360.978087
+r1
+xCopyPlistFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/Entitlements.plist
+xEntitlements.plist
+lSLF07#2@23"Copy Entitlements.plist286872360#286872360#0(0"0(0#0#71"/Users/raphael/Development/JayCollaboration/iTwinkle/Entitlements.plist4300952784#470"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Entitlements.plist --outdir /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCopyPlistFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/notes.plist Classes/notes.plist
+s286872360.765195
+e286872360.846580
+r1
+xCopyPlistFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/notes.plist
+xClasses/notes.plist
+lSLF07#2@24"Copy Classes/notes.plist286872360#286872360#0(0"0(0#0#72"/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/notes.plist4300952784#471"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Classes/notes.plist --outdir /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCopyPlistFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/untitled.plist Classes/untitled.plist
+r0
+
+CCopyPlistFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/wavfiles.plist wavfiles.plist
+s286872360.846960
+e286872360.887382
+r1
+xCopyPlistFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/wavfiles.plist
+xwavfiles.plist
+lSLF07#2@19"Copy wavfiles.plist286872360#286872360#0(0"0(0#0#67"/Users/raphael/Development/JayCollaboration/iTwinkle/wavfiles.plist4300952784#466"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 wavfiles.plist --outdir /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/1.aiff 1.aiff
+s286872361.290750
+e286872361.402130
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/1.aiff
+x1.aiff
+lSLF07#2@11"Copy 1.aiff286872361#286872361#0(0"0(0#0#59"/Users/raphael/Development/JayCollaboration/iTwinkle/1.aiff4300952784#541"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/raphael/Development/JayCollaboration/iTwinkle/1.aiff /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/2.aiff 2.aiff
+s286872361.350038
+e286872361.402303
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/2.aiff
+x2.aiff
+lSLF07#2@11"Copy 2.aiff286872361#286872361#0(0"0(0#0#59"/Users/raphael/Development/JayCollaboration/iTwinkle/2.aiff4300952784#541"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/raphael/Development/JayCollaboration/iTwinkle/2.aiff /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/2noattack.aiff 2noattack.aiff
+s286830004.921362
+e286830005.243229
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/2noattack.aiff
+x2noattack.aiff
+lSLF07#2@19"Copy 2noattack.aiff286830004#286830005#0(0"0(0#0#67"/Users/raphael/Development/JayCollaboration/iTwinkle/2noattack.aiff4300952784#549"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/raphael/Development/JayCollaboration/iTwinkle/2noattack.aiff /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/3.aiff 3.aiff
+s286872361.355201
+e286872361.402451
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/3.aiff
+x3.aiff
+lSLF07#2@11"Copy 3.aiff286872361#286872361#0(0"0(0#0#59"/Users/raphael/Development/JayCollaboration/iTwinkle/3.aiff4300952784#541"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/raphael/Development/JayCollaboration/iTwinkle/3.aiff /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/4.aiff 4.aiff
+s286872361.363948
+e286872361.402958
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/4.aiff
+x4.aiff
+lSLF07#2@11"Copy 4.aiff286872361#286872361#0(0"0(0#0#59"/Users/raphael/Development/JayCollaboration/iTwinkle/4.aiff4300952784#541"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/raphael/Development/JayCollaboration/iTwinkle/4.aiff /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/44929__digifishmusic__Solfege_Do.wav 44929__digifishmusic__Solfege_Do.wav
+s286835066.399921
+e286835066.504835
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/44929__digifishmusic__Solfege_Do.wav
+x44929__digifishmusic__Solfege_Do.wav
+lSLF07#2@41"Copy 44929__digifishmusic__Solfege_Do.wav286835066#286835066#0(0"0(0#0#89"/Users/raphael/Development/JayCollaboration/iTwinkle/44929__digifishmusic__Solfege_Do.wav4300952784#571"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/raphael/Development/JayCollaboration/iTwinkle/44929__digifishmusic__Solfege_Do.wav /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/44931__digifishmusic__Solfege_Fa.wav 44931__digifishmusic__Solfege_Fa.wav
+s286835066.414747
+e286835066.505130
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/44931__digifishmusic__Solfege_Fa.wav
+x44931__digifishmusic__Solfege_Fa.wav
+lSLF07#2@41"Copy 44931__digifishmusic__Solfege_Fa.wav286835066#286835066#0(0"0(0#0#89"/Users/raphael/Development/JayCollaboration/iTwinkle/44931__digifishmusic__Solfege_Fa.wav4300952784#571"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/raphael/Development/JayCollaboration/iTwinkle/44931__digifishmusic__Solfege_Fa.wav /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/44932__digifishmusic__Solfege_La.wav 44932__digifishmusic__Solfege_La.wav
+s286835066.442055
+e286835066.510297
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/44932__digifishmusic__Solfege_La.wav
+x44932__digifishmusic__Solfege_La.wav
+lSLF07#2@41"Copy 44932__digifishmusic__Solfege_La.wav286835066#286835066#0(0"0(0#0#89"/Users/raphael/Development/JayCollaboration/iTwinkle/44932__digifishmusic__Solfege_La.wav4300952784#571"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/raphael/Development/JayCollaboration/iTwinkle/44932__digifishmusic__Solfege_La.wav /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/44933__digifishmusic__Solfege_Me.wav 44933__digifishmusic__Solfege_Me.wav
+s286835066.445422
+e286835066.505404
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/44933__digifishmusic__Solfege_Me.wav
+x44933__digifishmusic__Solfege_Me.wav
+lSLF07#2@41"Copy 44933__digifishmusic__Solfege_Me.wav286835066#286835066#0(0"0(0#0#89"/Users/raphael/Development/JayCollaboration/iTwinkle/44933__digifishmusic__Solfege_Me.wav4300952784#571"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/raphael/Development/JayCollaboration/iTwinkle/44933__digifishmusic__Solfege_Me.wav /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/44934__digifishmusic__Solfege_Re.wav 44934__digifishmusic__Solfege_Re.wav
+s286835066.464712
+e286835066.511688
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/44934__digifishmusic__Solfege_Re.wav
+x44934__digifishmusic__Solfege_Re.wav
+lSLF07#2@41"Copy 44934__digifishmusic__Solfege_Re.wav286835066#286835066#0(0"0(0#0#89"/Users/raphael/Development/JayCollaboration/iTwinkle/44934__digifishmusic__Solfege_Re.wav4300952784#571"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/raphael/Development/JayCollaboration/iTwinkle/44934__digifishmusic__Solfege_Re.wav /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/44935__digifishmusic__Solfege_So.wav 44935__digifishmusic__Solfege_So.wav
+s286835066.476102
+e286835066.530639
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/44935__digifishmusic__Solfege_So.wav
+x44935__digifishmusic__Solfege_So.wav
+lSLF07#2@41"Copy 44935__digifishmusic__Solfege_So.wav286835066#286835066#0(0"0(0#0#89"/Users/raphael/Development/JayCollaboration/iTwinkle/44935__digifishmusic__Solfege_So.wav4300952784#571"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/raphael/Development/JayCollaboration/iTwinkle/44935__digifishmusic__Solfege_So.wav /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/44936__digifishmusic__Solfege_Ti.wav 44936__digifishmusic__Solfege_Ti.wav
+s286835066.489054
+e286835066.560318
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/44936__digifishmusic__Solfege_Ti.wav
+x44936__digifishmusic__Solfege_Ti.wav
+lSLF07#2@41"Copy 44936__digifishmusic__Solfege_Ti.wav286835066#286835066#0(0"0(0#0#89"/Users/raphael/Development/JayCollaboration/iTwinkle/44936__digifishmusic__Solfege_Ti.wav4300952784#571"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/raphael/Development/JayCollaboration/iTwinkle/44936__digifishmusic__Solfege_Ti.wav /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/5.aiff 5.aiff
+s286872361.369473
+e286872361.403107
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/5.aiff
+x5.aiff
+lSLF07#2@11"Copy 5.aiff286872361#286872361#0(0"0(0#0#59"/Users/raphael/Development/JayCollaboration/iTwinkle/5.aiff4300952784#541"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/raphael/Development/JayCollaboration/iTwinkle/5.aiff /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/6.aiff 6.aiff
+s286872361.380735
+e286872361.403251
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/6.aiff
+x6.aiff
+lSLF07#2@11"Copy 6.aiff286872361#286872361#0(0"0(0#0#59"/Users/raphael/Development/JayCollaboration/iTwinkle/6.aiff4300952784#541"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/raphael/Development/JayCollaboration/iTwinkle/6.aiff /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/7.aiff 7.aiff
+s286872361.387165
+e286872361.403866
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/7.aiff
+x7.aiff
+lSLF07#2@11"Copy 7.aiff286872361#286872361#0(0"0(0#0#59"/Users/raphael/Development/JayCollaboration/iTwinkle/7.aiff4300952784#541"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/raphael/Development/JayCollaboration/iTwinkle/7.aiff /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+s286872260.312391
+e286872260.406802
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist286872260#286872260#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist4300952784#571"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+s286750540.364371
+e286750540.374225
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist286750540#286750540#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist4300952784#573"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CCpResource build/Debug-iphoneos/iTwinkle.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+s286872360.097813
+e286872360.111896
+r1
+xCpResource
+xbuild/Debug-iphoneos/iTwinkle.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist286872360#286872360#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist4300952784#571"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+
+CGenerateDSYMFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app.dSYM /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/iTwinkle
+s286872361.904359
+e286872361.931419
+r1
+xGenerateDSYMFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app.dSYM
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/iTwinkle
+lSLF07#2@98"GenerateDSYMFile build/Debug-iphoneos/iTwinkle.app.dSYM build/Debug-iphoneos/iTwinkle.app/iTwinkle286872361#286872361#0(0"0(0#0#95"/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/iTwinkle4300952784#469"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/iTwinkle -o /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app.dSYM0#
+
+CLd /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/iTwinkle normal armv6
+s286872361.859547
+e286872361.904244
+r1
+xLd
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/iTwinkle
+xnormal
+xarmv6
+lSLF07#2@100"Link /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/iTwinkle286872361#286872361#0(0"0(0#0#0"4300952784#983"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -L/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos -F/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos -filelist /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/Objects-normal/armv6/iTwinkle.LinkFileList -dead_strip -miphoneos-version-min=3.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -o /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/iTwinkle0#
+
+CProcessInfoPlistFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/Info.plist iTwinkle-Info.plist
+s286872360.100389
+e286872360.109217
+r1
+xProcessInfoPlistFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/Info.plist
+xiTwinkle-Info.plist
+lSLF07#2@27"Process iTwinkle-Info.plist286872360#286872360#0(0"0(0#0#72"/Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkle-Info.plist4300952784#684"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility iTwinkle-Info.plist -genpkginfo /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/ResourceRules.plist -o /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/Info.plist0#
+
+CProcessPCH /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-ahpbjmnkuilcifeuwnzlwrcktxak/iTwinkle_Prefix.pch.gch iTwinkle_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s286751130.463937
+e286751132.525933
+r1
+xProcessPCH
+x/var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-ahpbjmnkuilcifeuwnzlwrcktxak/iTwinkle_Prefix.pch.gch
+xiTwinkle_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile iTwinkle_Prefix.pch286751130#286751132#0(0"0(0#0#72"/Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkle_Prefix.pch4300952784#1843"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-generated-files.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-own-target-headers.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-all-target-headers.hmap -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-project-headers.hmap -F/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/include -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/DerivedSources/armv6 -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/DerivedSources -c /Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkle_Prefix.pch -o /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-ahpbjmnkuilcifeuwnzlwrcktxak/iTwinkle_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-eybznncvwaexvdbhpecxopxhmsbj/iTwinkle_Prefix.pch.gch iTwinkle_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s286818960.807751
+e286818963.608385
+r1
+xProcessPCH
+x/var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-eybznncvwaexvdbhpecxopxhmsbj/iTwinkle_Prefix.pch.gch
+xiTwinkle_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile iTwinkle_Prefix.pch286818960#286818963#0(0"0(0#0#72"/Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkle_Prefix.pch4300952784#1843"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-generated-files.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-own-target-headers.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-all-target-headers.hmap -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-project-headers.hmap -F/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/include -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/DerivedSources/armv6 -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/DerivedSources -c /Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkle_Prefix.pch -o /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-eybznncvwaexvdbhpecxopxhmsbj/iTwinkle_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-gbppdcbwvtuigphdhmrsevudsbwj/iTwinkle_Prefix.pch.gch iTwinkle_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s286693051.398528
+e286693053.052885
+r1
+xProcessPCH
+x/var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-gbppdcbwvtuigphdhmrsevudsbwj/iTwinkle_Prefix.pch.gch
+xiTwinkle_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile iTwinkle_Prefix.pch286693051#286693053#0(0"0(0#0#72"/Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkle_Prefix.pch4300952784#1847"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-generated-files.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-own-target-headers.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-all-target-headers.hmap -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle-project-headers.hmap -F/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/include -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/DerivedSources/armv6 -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/DerivedSources -c /Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkle_Prefix.pch -o /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-gbppdcbwvtuigphdhmrsevudsbwj/iTwinkle_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/raphael/Library/MobileDevice/Provisioning Profiles/0469765C-D278-4C5C-8B6F-D42FFB9F752F.mobileprovision" /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging "/Users/raphael/Library/MobileDevice/Provisioning Profiles/7F802908-6E38-4C3A-A10D-966727664EF1.mobileprovision" /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/embedded.mobileprovision
+s286872361.931550
+e286872361.962431
+r1
+xProcessProductPackaging
+x/Users/raphael/Library/MobileDevice/Provisioning Profiles/7F802908-6E38-4C3A-A10D-966727664EF1.mobileprovision
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/embedded.mobileprovision
+lSLF07#2@195"ProcessProductPackaging "/Users/raphael/Library/MobileDevice/Provisioning Profiles/7F802908-6E38-4C3A-A10D-966727664EF1.mobileprovision" build/Debug-iphoneos/iTwinkle.app/embedded.mobileprovision286872361#286872361#0(0"0(0#0#111"/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/embedded.mobileprovision4300952784#516"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> "/Users/raphael/Library/MobileDevice/Provisioning Profiles/7F802908-6E38-4C3A-A10D-966727664EF1.mobileprovision" -o /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent
+s286872263.049195
+e286872263.060170
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent
+lSLF07#2@178"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent286872263#286872263#0(0"0(0#0#118"/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent4300952784#525"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent
+s286750542.570577
+e286750542.589991
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent
+lSLF07#2@180"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent286750542#286750542#0(0"0(0#0#118"/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent4300952784#527"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent
+s286872361.969253
+e286872361.981285
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent
+lSLF07#2@178"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent286872361#286872361#0(0"0(0#0#118"/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent4300952784#525"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphoneos/iTwinkle.build/iTwinkle.xcent0#
+
+CTouch /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app
+s286872361.962554
+e286872361.969137
+r1
+xTouch
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app
+lSLF07#2@92"Touch /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app286872361#286872361#0(0"0(0#0#0"4300952784#355"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphoneos/iTwinkle.app0#
+

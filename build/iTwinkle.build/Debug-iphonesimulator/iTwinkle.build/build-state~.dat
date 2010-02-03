@@ -1,0 +1,249 @@
+TiTwinkle
+v7
+r0
+t286686641.812368
+cCheck dependencies
+cProcessInfoPlistFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app/Info.plist iTwinkle-Info.plist
+cCompileXIB /Users/raphael/Development/JayCollaboration/iTwinkle/MainWindow.xib
+cCompileXIB /Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkleViewController.xib
+cProcessPCH /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-arhgjgblnzscfhbapbefzhpbqpqa/iTwinkle_Prefix.pch.gch iTwinkle_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/Objects-normal/i386/main.o /Users/raphael/Development/JayCollaboration/iTwinkle/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/Objects-normal/i386/iTwinkleAppDelegate.o /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/Objects-normal/i386/iTwinkleViewController.o /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B6506E30000000000000110
+t1264912099
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B567172000000000026F020
+t1263956338
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B56718B0000000000288B20
+t1263956363
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B56717E0000000000001355
+t1263956350
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B56A2960000000000000970
+t1263968918
+s2416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B56A324000000000211C6C0
+t1263969060
+s34719424
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleAppDelegate.h
+c000000004B66306300000000000001DD
+t1264988259
+s477
+i<UIKit/UIKit.h>
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleAppDelegate.m
+c000000004B66306300000000000002A0
+t1264988259
+s672
+i"iTwinkleAppDelegate.h"
+i"iTwinkleViewController.h"
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.h
+c000000004B664626000000000000012F
+t1264993830
+s303
+i<UIKit/UIKit.h>
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m
+c000000004B664626000000000000076D
+t1264993830
+s1901
+i"iTwinkleViewController.h"
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/MainWindow.xib
+c000000004B6630630000000000002661
+t1264988259
+s9825
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app
+t2
+s0
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app.dSYM
+t2
+s0
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app/Info.plist
+t1264993830
+s593
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app/MainWindow.nib
+t1264993836
+s1095
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app/PkgInfo
+t1264993830
+s8
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app/iTwinkle
+t2
+s0
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app/iTwinkleViewController.nib
+t1264993836
+s800
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/Objects-normal/i386/iTwinkle.LinkFileList
+c000000004B66462600000000000001BF
+t1264993830
+s447
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/Objects-normal/i386/iTwinkleAppDelegate.o
+t1264993841
+s43348
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/Objects-normal/i386/iTwinkleViewController.o
+t2
+s0
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/Objects-normal/i386/main.o
+t1264993841
+s5972
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkleViewController.xib
+c000000004B6630630000000000001A49
+t1264988259
+s6729
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkle_Prefix.pch
+c000000004B66306300000000000000B9
+t1264988259
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/raphael/Development/JayCollaboration/iTwinkle/main.m
+c000000004B6630630000000000000162
+t1264988259
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-arhgjgblnzscfhbapbefzhpbqpqa/iTwinkle_Prefix.pch.gch
+t1264993841
+s13719376
+
+NiTwinkle-Info.plist
+c000000004B664625000000000000038B
+t1264993829
+s907
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286686630#286686630#0(0"0(0#1#0"4300952784#0"0#
+
+CCompileC build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/Objects-normal/i386/iTwinkleAppDelegate.o /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286686641.357658
+e286686641.707565
+r1
+xCompileC
+xbuild/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/Objects-normal/i386/iTwinkleAppDelegate.o
+x/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleAppDelegate.m286686641#286686641#0(0"0(0#0#82"/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleAppDelegate.m4300952784#2131"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/iTwinkle-generated-files.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/iTwinkle-own-target-headers.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/iTwinkle-all-target-headers.hmap -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/iTwinkle-project-headers.hmap -F/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/include -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/DerivedSources/i386 -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/DerivedSources -include /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-arhgjgblnzscfhbapbefzhpbqpqa/iTwinkle_Prefix.pch -c /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleAppDelegate.m -o /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/Objects-normal/i386/iTwinkleAppDelegate.o0#
+
+CCompileC build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/Objects-normal/i386/iTwinkleViewController.o /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286686641.704396
+e286686641.812201
+r0
+xCompileC
+xbuild/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/Objects-normal/i386/iTwinkleViewController.o
+x/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m: In function '-[iTwinkleViewController showCamera]':
+o/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m:41: error: 'LoveBottleAppDelegate' undeclared (first use in this function)
+o/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m:41: error: (Each undeclared identifier is reported only once
+o/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m:41: error: for each function it appears in.)
+o/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m:41: error: expected expression before ')' token
+o{standard input}:63:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:63:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASS_iTwinkleViewController" minus "L00000000001$pb"
+o{standard input}:52:symbol: "L_OBJC_CLASS_iTwinkleViewController" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_iTwinkleViewController
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+lSLF07#2@93"Compile /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m286686641#286686641#0(1627"/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m: In function '-[iTwinkleViewController showCamera]':/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m:41: error: 'LoveBottleAppDelegate' undeclared (first use in this function)/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m:41: error: (Each undeclared identifier is reported only once/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m:41: error: for each function it appears in.)/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m:41: error: expected expression before ')' token{standard input}:63:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:63:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASS_iTwinkleViewController" minus "L00000000001$pb"{standard input}:52:symbol: "L_OBJC_CLASS_iTwinkleViewController" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_iTwinkleViewController{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12(4@63"'LoveBottleAppDelegate' undeclared (first use in this function)286686641#139#161#0(6@85"/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m286686630#41#0#41#0#43"'*' undeclared (first use in this function)0(4@36"Expected expression before ')' token286686641#578#134#0(6@85"/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m286686630#41#0#41#0#19"expected * before *0(0#0#85"/Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m4300952784#2137"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/iTwinkle-generated-files.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/iTwinkle-own-target-headers.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/iTwinkle-all-target-headers.hmap -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/iTwinkle-project-headers.hmap -F/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/include -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/DerivedSources/i386 -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/DerivedSources -include /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-arhgjgblnzscfhbapbefzhpbqpqa/iTwinkle_Prefix.pch -c /Users/raphael/Development/JayCollaboration/iTwinkle/Classes/iTwinkleViewController.m -o /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/Objects-normal/i386/iTwinkleViewController.o1#
+
+CCompileC build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/Objects-normal/i386/main.o /Users/raphael/Development/JayCollaboration/iTwinkle/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286686641.335516
+e286686641.704177
+r1
+xCompileC
+xbuild/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/Objects-normal/i386/main.o
+x/Users/raphael/Development/JayCollaboration/iTwinkle/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/raphael/Development/JayCollaboration/iTwinkle/main.m286686641#286686641#0(0"0(0#0#59"/Users/raphael/Development/JayCollaboration/iTwinkle/main.m4300952784#2093"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/iTwinkle-generated-files.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/iTwinkle-own-target-headers.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/iTwinkle-all-target-headers.hmap -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/iTwinkle-project-headers.hmap -F/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/include -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/DerivedSources/i386 -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/DerivedSources -include /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-arhgjgblnzscfhbapbefzhpbqpqa/iTwinkle_Prefix.pch -c /Users/raphael/Development/JayCollaboration/iTwinkle/main.m -o /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/raphael/Development/JayCollaboration/iTwinkle/MainWindow.xib
+s286686630.637278
+e286686636.235657
+r1
+xCompileXIB
+x/Users/raphael/Development/JayCollaboration/iTwinkle/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib286686630#286686636#0(0"0(0#0#67"/Users/raphael/Development/JayCollaboration/iTwinkle/MainWindow.xib4300952784#585"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app/MainWindow.nib /Users/raphael/Development/JayCollaboration/iTwinkle/MainWindow.xib0#
+
+CCompileXIB /Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkleViewController.xib
+s286686630.652485
+e286686636.282853
+r1
+xCompileXIB
+x/Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkleViewController.xib
+lSLF07#2@37"CompileXIB iTwinkleViewController.xib286686630#286686636#0(0"0(0#0#79"/Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkleViewController.xib4300952784#609"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app/iTwinkleViewController.nib /Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkleViewController.xib0#
+
+CGenerateDSYMFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app.dSYM /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app/iTwinkle
+r0
+
+CLd /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app/iTwinkle normal i386
+r0
+
+CProcessInfoPlistFile /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app/Info.plist iTwinkle-Info.plist
+s286686630.544567
+e286686630.637077
+r1
+xProcessInfoPlistFile
+x/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app/Info.plist
+xiTwinkle-Info.plist
+lSLF07#2@27"Process iTwinkle-Info.plist286686630#286686630#0(0"0(0#0#72"/Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkle-Info.plist4300952784#586"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility iTwinkle-Info.plist -genpkginfo /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app/Info.plist0#
+
+CProcessPCH /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-arhgjgblnzscfhbapbefzhpbqpqa/iTwinkle_Prefix.pch.gch iTwinkle_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s286686636.283360
+e286686641.335168
+r1
+xProcessPCH
+x/var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-arhgjgblnzscfhbapbefzhpbqpqa/iTwinkle_Prefix.pch.gch
+xiTwinkle_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile iTwinkle_Prefix.pch286686636#286686641#0(0"0(0#0#72"/Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkle_Prefix.pch4300952784#1970"    cd /Users/raphael/Development/JayCollaboration/iTwinkle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/iTwinkle-generated-files.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/iTwinkle-own-target-headers.hmap -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/iTwinkle-all-target-headers.hmap -iquote /Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/iTwinkle-project-headers.hmap -F/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/include -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/DerivedSources/i386 -I/Users/raphael/Development/JayCollaboration/iTwinkle/build/iTwinkle.build/Debug-iphonesimulator/iTwinkle.build/DerivedSources -c /Users/raphael/Development/JayCollaboration/iTwinkle/iTwinkle_Prefix.pch -o /var/folders/ab/ab7H39xzEqGcPao8dpxJCk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTwinkle_Prefix-arhgjgblnzscfhbapbefzhpbqpqa/iTwinkle_Prefix.pch.gch0#
+
+CTouch /Users/raphael/Development/JayCollaboration/iTwinkle/build/Debug-iphonesimulator/iTwinkle.app
+r0
+

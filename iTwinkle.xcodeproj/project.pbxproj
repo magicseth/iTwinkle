@@ -1,0 +1,406 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* iTwinkleAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* iTwinkleAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		2899E5220DE3E06400AC0155 /* iTwinkleViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* iTwinkleViewController.xib */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* iTwinkleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */; };
+		64243801111693B5009065A7 /* miislogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 64243800111693B5009065A7 /* miislogo.png */; };
+		642A987C11188C0800B798DB /* 19-gear.png in Resources */ = {isa = PBXBuildFile; fileRef = 642A987B11188C0800B798DB /* 19-gear.png */; };
+		642A987E11188C1800B798DB /* 40-inbox.png in Resources */ = {isa = PBXBuildFile; fileRef = 642A987D11188C1800B798DB /* 40-inbox.png */; };
+		642A988011188C3600B798DB /* 98-palette.png in Resources */ = {isa = PBXBuildFile; fileRef = 642A987F11188C3600B798DB /* 98-palette.png */; };
+		642A990C1118B15E00B798DB /* 1.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 642A99051118B15E00B798DB /* 1.aiff */; };
+		642A990D1118B15E00B798DB /* 2.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 642A99061118B15E00B798DB /* 2.aiff */; };
+		642A990E1118B15E00B798DB /* 3.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 642A99071118B15E00B798DB /* 3.aiff */; };
+		642A990F1118B15E00B798DB /* 4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 642A99081118B15E00B798DB /* 4.aiff */; };
+		642A99101118B15E00B798DB /* 5.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 642A99091118B15E00B798DB /* 5.aiff */; };
+		642A99111118B15E00B798DB /* 6.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 642A990A1118B15E00B798DB /* 6.aiff */; };
+		642A99121118B15E00B798DB /* 7.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 642A990B1118B15E00B798DB /* 7.aiff */; };
+		64BC974511175DD700990DE1 /* notes.plist in Resources */ = {isa = PBXBuildFile; fileRef = 64BC974411175DD600990DE1 /* notes.plist */; };
+		64BC97C31117713C00990DE1 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 64BC97C21117713C00990DE1 /* AVFoundation.framework */; };
+		64BC97D2111772EE00990DE1 /* wavfiles.plist in Resources */ = {isa = PBXBuildFile; fileRef = 64BC97D1111772EE00990DE1 /* wavfiles.plist */; };
+		64BC982511177AB800990DE1 /* frame.png in Resources */ = {isa = PBXBuildFile; fileRef = 64BC982411177AB800990DE1 /* frame.png */; };
+		64BC984F1117824C00990DE1 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 64BC984D1117824C00990DE1 /* icon.png */; };
+		64BC98501117824C00990DE1 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 64BC984E1117824C00990DE1 /* Default.png */; };
+		64CC18F81117BA42003DEDFE /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 64CC18F71117BA42003DEDFE /* Entitlements.plist */; };
+		64CC19041117BBF8003DEDFE /* 86-camera.png in Resources */ = {isa = PBXBuildFile; fileRef = 64CC19031117BBF8003DEDFE /* 86-camera.png */; };
+		64CC19061117BC7B003DEDFE /* 12-eye.png in Resources */ = {isa = PBXBuildFile; fileRef = 64CC19051117BC7B003DEDFE /* 12-eye.png */; };
+		64CC19081117BCCB003DEDFE /* 42-photos.png in Resources */ = {isa = PBXBuildFile; fileRef = 64CC19071117BCCB003DEDFE /* 42-photos.png */; };
+		64CC190A1117BCEE003DEDFE /* 65-note.png in Resources */ = {isa = PBXBuildFile; fileRef = 64CC19091117BCEE003DEDFE /* 65-note.png */; };
+		64CC194C1117C6BE003DEDFE /* muted.png in Resources */ = {isa = PBXBuildFile; fileRef = 64CC194B1117C6BE003DEDFE /* muted.png */; };
+		64CC19CC1117D198003DEDFE /* TouchSensitiveView.m in Sources */ = {isa = PBXBuildFile; fileRef = 64CC19CB1117D198003DEDFE /* TouchSensitiveView.m */; };
+		64CC1A331117D9B0003DEDFE /* twinkle.png in Resources */ = {isa = PBXBuildFile; fileRef = 64CC1A321117D9B0003DEDFE /* twinkle.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* iTwinkleAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iTwinkleAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* iTwinkleAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iTwinkleAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* iTwinkle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iTwinkle.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2899E5210DE3E06400AC0155 /* iTwinkleViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = iTwinkleViewController.xib; sourceTree = "<group>"; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* iTwinkleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iTwinkleViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iTwinkleViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* iTwinkle_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iTwinkle_Prefix.pch; sourceTree = "<group>"; };
+		64243800111693B5009065A7 /* miislogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = miislogo.png; sourceTree = "<group>"; };
+		642A987B11188C0800B798DB /* 19-gear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "19-gear.png"; sourceTree = "<group>"; };
+		642A987D11188C1800B798DB /* 40-inbox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "40-inbox.png"; sourceTree = "<group>"; };
+		642A987F11188C3600B798DB /* 98-palette.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "98-palette.png"; sourceTree = "<group>"; };
+		642A99051118B15E00B798DB /* 1.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 1.aiff; sourceTree = "<group>"; };
+		642A99061118B15E00B798DB /* 2.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 2.aiff; sourceTree = "<group>"; };
+		642A99071118B15E00B798DB /* 3.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 3.aiff; sourceTree = "<group>"; };
+		642A99081118B15E00B798DB /* 4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 4.aiff; sourceTree = "<group>"; };
+		642A99091118B15E00B798DB /* 5.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 5.aiff; sourceTree = "<group>"; };
+		642A990A1118B15E00B798DB /* 6.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 6.aiff; sourceTree = "<group>"; };
+		642A990B1118B15E00B798DB /* 7.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 7.aiff; sourceTree = "<group>"; };
+		64BC974411175DD600990DE1 /* notes.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = notes.plist; path = Classes/notes.plist; sourceTree = "<group>"; };
+		64BC97C21117713C00990DE1 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		64BC97D1111772EE00990DE1 /* wavfiles.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = wavfiles.plist; sourceTree = "<group>"; };
+		64BC98051117772C00990DE1 /* 44929__digifishmusic__Solfege_Do.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 44929__digifishmusic__Solfege_Do.wav; sourceTree = "<group>"; };
+		64BC98061117772C00990DE1 /* 44931__digifishmusic__Solfege_Fa.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 44931__digifishmusic__Solfege_Fa.wav; sourceTree = "<group>"; };
+		64BC98071117772C00990DE1 /* 44932__digifishmusic__Solfege_La.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 44932__digifishmusic__Solfege_La.wav; sourceTree = "<group>"; };
+		64BC98081117772C00990DE1 /* 44933__digifishmusic__Solfege_Me.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 44933__digifishmusic__Solfege_Me.wav; sourceTree = "<group>"; };
+		64BC98091117772C00990DE1 /* 44934__digifishmusic__Solfege_Re.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 44934__digifishmusic__Solfege_Re.wav; sourceTree = "<group>"; };
+		64BC980A1117772C00990DE1 /* 44935__digifishmusic__Solfege_So.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 44935__digifishmusic__Solfege_So.wav; sourceTree = "<group>"; };
+		64BC980B1117772C00990DE1 /* 44936__digifishmusic__Solfege_Ti.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 44936__digifishmusic__Solfege_Ti.wav; sourceTree = "<group>"; };
+		64BC982411177AB800990DE1 /* frame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame.png; sourceTree = "<group>"; };
+		64BC984D1117824C00990DE1 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		64BC984E1117824C00990DE1 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		64CC18F71117BA42003DEDFE /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
+		64CC19031117BBF8003DEDFE /* 86-camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "86-camera.png"; sourceTree = "<group>"; };
+		64CC19051117BC7B003DEDFE /* 12-eye.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "12-eye.png"; sourceTree = "<group>"; };
+		64CC19071117BCCB003DEDFE /* 42-photos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "42-photos.png"; sourceTree = "<group>"; };
+		64CC19091117BCEE003DEDFE /* 65-note.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "65-note.png"; sourceTree = "<group>"; };
+		64CC194B1117C6BE003DEDFE /* muted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = muted.png; sourceTree = "<group>"; };
+		64CC19CA1117D198003DEDFE /* TouchSensitiveView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TouchSensitiveView.h; sourceTree = "<group>"; };
+		64CC19CB1117D198003DEDFE /* TouchSensitiveView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TouchSensitiveView.m; sourceTree = "<group>"; };
+		64CC1A321117D9B0003DEDFE /* twinkle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = twinkle.png; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* iTwinkle-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "iTwinkle-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+				64BC97C31117713C00990DE1 /* AVFoundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* iTwinkleAppDelegate.h */,
+				1D3623250D0F684500981E51 /* iTwinkleAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* iTwinkleViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* iTwinkleViewController.m */,
+				64CC19CA1117D198003DEDFE /* TouchSensitiveView.h */,
+				64CC19CB1117D198003DEDFE /* TouchSensitiveView.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* iTwinkle.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources-iPhone */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* iTwinkle_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources-iPhone */ = {
+			isa = PBXGroup;
+			children = (
+				64CC18F71117BA42003DEDFE /* Entitlements.plist */,
+				64CC1A321117D9B0003DEDFE /* twinkle.png */,
+				64BC984D1117824C00990DE1 /* icon.png */,
+				64BC984E1117824C00990DE1 /* Default.png */,
+				64BC982411177AB800990DE1 /* frame.png */,
+				64BC98011117771C00990DE1 /* Sounds */,
+				64CC19051117BC7B003DEDFE /* 12-eye.png */,
+				642A987B11188C0800B798DB /* 19-gear.png */,
+				642A987D11188C1800B798DB /* 40-inbox.png */,
+				642A987F11188C3600B798DB /* 98-palette.png */,
+				64CC194B1117C6BE003DEDFE /* muted.png */,
+				64CC19091117BCEE003DEDFE /* 65-note.png */,
+				64CC19071117BCCB003DEDFE /* 42-photos.png */,
+				64CC19031117BBF8003DEDFE /* 86-camera.png */,
+				64243800111693B5009065A7 /* miislogo.png */,
+				2899E5210DE3E06400AC0155 /* iTwinkleViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* iTwinkle-Info.plist */,
+			);
+			name = "Resources-iPhone";
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				64BC97C21117713C00990DE1 /* AVFoundation.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		64BC98011117771C00990DE1 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				642A99051118B15E00B798DB /* 1.aiff */,
+				642A99061118B15E00B798DB /* 2.aiff */,
+				642A99071118B15E00B798DB /* 3.aiff */,
+				642A99081118B15E00B798DB /* 4.aiff */,
+				642A99091118B15E00B798DB /* 5.aiff */,
+				642A990A1118B15E00B798DB /* 6.aiff */,
+				642A990B1118B15E00B798DB /* 7.aiff */,
+				64BC97D1111772EE00990DE1 /* wavfiles.plist */,
+				64BC974411175DD600990DE1 /* notes.plist */,
+				64BC98051117772C00990DE1 /* 44929__digifishmusic__Solfege_Do.wav */,
+				64BC98061117772C00990DE1 /* 44931__digifishmusic__Solfege_Fa.wav */,
+				64BC98071117772C00990DE1 /* 44932__digifishmusic__Solfege_La.wav */,
+				64BC98081117772C00990DE1 /* 44933__digifishmusic__Solfege_Me.wav */,
+				64BC98091117772C00990DE1 /* 44934__digifishmusic__Solfege_Re.wav */,
+				64BC980A1117772C00990DE1 /* 44935__digifishmusic__Solfege_So.wav */,
+				64BC980B1117772C00990DE1 /* 44936__digifishmusic__Solfege_Ti.wav */,
+			);
+			name = Sounds;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* iTwinkle */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iTwinkle" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iTwinkle;
+			productName = iTwinkle;
+			productReference = 1D6058910D05DD3D006BFB54 /* iTwinkle.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iTwinkle" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* iTwinkle */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				2899E5220DE3E06400AC0155 /* iTwinkleViewController.xib in Resources */,
+				64243801111693B5009065A7 /* miislogo.png in Resources */,
+				64BC974511175DD700990DE1 /* notes.plist in Resources */,
+				64BC97D2111772EE00990DE1 /* wavfiles.plist in Resources */,
+				64BC982511177AB800990DE1 /* frame.png in Resources */,
+				64BC984F1117824C00990DE1 /* icon.png in Resources */,
+				64BC98501117824C00990DE1 /* Default.png in Resources */,
+				64CC18F81117BA42003DEDFE /* Entitlements.plist in Resources */,
+				64CC19041117BBF8003DEDFE /* 86-camera.png in Resources */,
+				64CC19061117BC7B003DEDFE /* 12-eye.png in Resources */,
+				64CC19081117BCCB003DEDFE /* 42-photos.png in Resources */,
+				64CC190A1117BCEE003DEDFE /* 65-note.png in Resources */,
+				64CC194C1117C6BE003DEDFE /* muted.png in Resources */,
+				64CC1A331117D9B0003DEDFE /* twinkle.png in Resources */,
+				642A987C11188C0800B798DB /* 19-gear.png in Resources */,
+				642A987E11188C1800B798DB /* 40-inbox.png in Resources */,
+				642A988011188C3600B798DB /* 98-palette.png in Resources */,
+				642A990C1118B15E00B798DB /* 1.aiff in Resources */,
+				642A990D1118B15E00B798DB /* 2.aiff in Resources */,
+				642A990E1118B15E00B798DB /* 3.aiff in Resources */,
+				642A990F1118B15E00B798DB /* 4.aiff in Resources */,
+				642A99101118B15E00B798DB /* 5.aiff in Resources */,
+				642A99111118B15E00B798DB /* 6.aiff in Resources */,
+				642A99121118B15E00B798DB /* 7.aiff in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* iTwinkleAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* iTwinkleViewController.m in Sources */,
+				64CC19CC1117D198003DEDFE /* TouchSensitiveView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iTwinkle_Prefix.pch;
+				INFOPLIST_FILE = "iTwinkle-Info.plist";
+				PRODUCT_NAME = iTwinkle;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iTwinkle_Prefix.pch;
+				INFOPLIST_FILE = "iTwinkle-Info.plist";
+				PRODUCT_NAME = iTwinkle;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		64BC983F11177F3500990DE1 /* Adhoc */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Seth Raphael";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "71223313-0CD6-4CDA-B712-978D87EBFC53";
+				SDKROOT = iphoneos3.1;
+			};
+			name = Adhoc;
+		};
+		64BC984011177F3500990DE1 /* Adhoc */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iTwinkle_Prefix.pch;
+				INFOPLIST_FILE = "iTwinkle-Info.plist";
+				PRODUCT_NAME = iTwinkle;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Adhoc;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_ENTITLEMENTS = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Seth Raphael (V7EAG5X4FW)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "7F802908-6E38-4C3A-A10D-966727664EF1";
+				SDKROOT = iphoneos3.0;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iTwinkle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+				64BC984011177F3500990DE1 /* Adhoc */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iTwinkle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+				64BC983F11177F3500990DE1 /* Adhoc */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
